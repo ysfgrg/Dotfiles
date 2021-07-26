@@ -1,2 +1,1 @@
-# Dotfiles
-Linux/BSD dotfiles
+
