@@ -1,0 +1,4874 @@
+ls
+ls
+v .zshrc
+v .zsh_history
+ls
+cler
+ls
+ls
+clear
+l
+sl
+ls
+v .zshrc
+zsh
+ls
+clear
+ls
+cd .suckless
+git clone https://github.com/drkhsh/slstatus.git
+cd slstatus
+sudo make clean install 
+killall slstatus
+ls
+rm .git
+cd ..
+rm slstatus
+mkdir status
+cd status
+git clone https://github.com/yogeshdcool/dotfiles.git
+cd dwmblocks
+sudo make clean install 
+sudo make clean install 
+killall dwmblocks
+killall dwmblocks
+yay -Rnc openssh
+yay -Rnc firefox
+yay -S ranger 
+yay -S picom-git
+yay -S nerd-fonts-meslo
+yay -S nerd-fonts-mononoki
+ls
+clear
+ls -lah
+ll
+la
+exa
+exa -l
+exa -la
+cd .zsh
+ls
+ls
+git clone https://github.com/zsh-users/zsh-completions.git
+cd
+v .zshrc
+zsh
+cd
+ls
+clear
+ls
+clear
+v .xinitrc
+nitrogen --restore
+v .xinitrc
+bash
+feh
+git clone https://github.com/ysfgrg/Temp-repo.git
+cp -r Temp-repo/Temp-Repo/slstatus ~/.suckless
+cd .suckless
+cd slstatus
+ls
+ls
+sudo make clean install 
+cd
+cd .suckless
+cd
+cd dwm
+ls
+la
+la
+ls
+rm config.h
+v config.def.h
+v config.def.h
+cd
+cd .suckless/dwm
+v config.def.h
+cd .zsh
+cd
+cd dwm
+kls
+ls
+clear
+ls
+v config.def.h
+v config.def.h
+ls
+clear
+vim ~/.local/share/nemo/actions/extracthere.nemo_action
+yay -S nemo-fileroller
+sudo pacman -S thunar
+v
+rm ~/.config/nvim
+v
+cd .local/share
+rm nvim
+cd
+v
+git clone https://github.com/siduck76/NvChad.git
+cd NvChad
+ls
+./install.sh
+sh ./install.sh
+sh ./install.sh -i
+cd
+v
+yay -S nerd-fonts-source-code-pro  gimp
+yay -Rnc nerd-fonts-meslo
+pacman -Qqe
+yay -Rnc nerd-fonts-mononoki
+yay -S nerd-fonts-source-code-pro
+ls
+cp dwm ~/dwm.bc
+cd dwm
+touch dwm-centeredwindowname-20200723-f035e1e.diff
+v dwm-centeredwindowname-20200723-f035e1e.diff
+rm dwm-centeredwindowname-20200723-f035e1e.diff
+cd dwm
+ls
+patch -p1 < dwm-activetagindicatorbar-6.2.diff
+sudo make clean install 
+cd dwm
+v dwm.c
+vim dwm.c
+v dwm.c
+sudo make clean install 
+cd dwm
+patch -p1 < dwm-centeredwindowname-20200723-f035e1e.diff
+v dwm.c.rej
+cd dwm
+v config.def.h
+v 
+yay -Rnc alacritty
+yay -S kitty
+cd dwm
+rm config.h
+v config.def.h
+sudo make clean install 
+ls
+clear
+ls
+clear
+v
+ timedatectl list-timezones\
+
+ timedatectl set-timezone Africa/Cairo
+ systemctl enable systemd-timesyncd\
+
+ systemctl enable systemd-timesyncd\
+
+ hostnamectl set-hostname MyArchPC
+vim /etc/hosts\
+
+sudo vim /etc/hosts\
+
+ pacman -S mesa\
+
+sudo  pacman -S mesa\
+
+sudo  pacman -S nvidia nvidia-utils nvidia-lts
+ sudo pacman -S xfce4 xfce4-goodies
+st
+kitty
+ls
+clear
+ls
+clear
+cd dwm
+ls
+clear
+v config.def.h
+rm config.h
+sudo make clean install 
+cd dwm
+v config.def.h
+rm config.h
+sudo make clean install 
+cd dwm
+v config.def.h
+v config.def.h
+rm config.h
+sudo make clean install 
+sudo pacman -S font
+yay -S font
+c
+v
+git clone https://github.com/siduck76/st.git
+ls
+clear
+cd st
+make
+cp xresources ~/.Xresources
+sudo make clean install 
+ls
+clear
+ls
+v
+cd NvChad
+sh ./install.sh -i
+v
+v 
+v
+v
+v .config
+v 
+ls
+la
+clear
+v
+cd .config/nvim
+ls
+v init.lua
+cd ..
+cd nvim
+cd lua
+ls
+cd plugin
+cd Plugins
+ls
+cd plugins
+la
+la
+ls
+v statusline.lua
+v statusline.lua
+v
+touch config.lua
+v config.lua
+v
+v
+ls
+rm config.lua
+v statusline.lua
+v
+v statusline.lua
+v
+v statusline.lua
+v
+v statusline.lua
+v statusline.lua
+v
+v statusline.lua
+cd st
+ls
+v config.def.h
+rm ~/.config/nvim
+rm ~/.local/share/nvim
+ls
+clear
+yay -S  nerd-fonts-complete
+pacman -Qqe
+yay -S nerd-fonts-source-code-pro berd-fonts-jetbrains
+yay -S nerd-fonts-source-code-pro 
+ls
+clear
+v
+ls
+yay -S nerd-fonts-source-code-pro nerd-fonts-jetbrains-mono 
+ls
+clear
+v
+yay -S nerd-fonts-meslo nerd-fonts-mononoki
+cd dwm
+yay -ttf-meslo ttf-mononoki
+yay -S ttf-mononoki
+v config.def.h
+cd /usr/share/font
+cd /usr/share/fonts
+;s
+ls
+cd util
+ls
+cd ..
+cd TTF
+ls
+yay -S lxsessoin lxappernce
+sudo pacman -S lxsession-git
+sudo pacman -S lxsession
+sudo pacman -S lxappearance-gtk3
+ls
+yay -S nerd-fonts-hack
+yay -Rnc xfce4 xfce4-goodies
+pacman -Qqe
+yay -Rnc kitty
+sudo pacman -Rnc yay-bin
+ls
+pacman -Qqe
+sudo pacman -Rnc xterm
+sudo pacman -Rnc xorg-twm
+suod pacman -Rnc graphviz
+sudo pacman -Rnc graphviz
+sudo pacman -Rnc brave-nightly-bin
+sudo pacman -Rnc brave-nightly-bin
+sudo pacman -Rnc brave-nightly-bin
+cd dwm
+ls
+sudo pacman -S firefox
+cd dwm
+v dwm.c
+rm config.h
+sudo make clean install 
+cd dwm
+make
+sudo make clean install 
+patch -p1 < dwm-status2d-20200508-60bb3df.diff
+v dwm.c.rej
+yay -Rnc firefox
+sudo pacman -Rnc firefox
+git clone https://aur.suckless.org/brave-nightly-bin 
+git clone https://aur.suckless.org/brave-nightly-bin .git
+git clone https://aur.suckless.org/brave-nightly-bin.git
+cd yay-bin
+makepkg -si
+ls
+clear
+yay -S brave-nightly-bin
+v .xprofile
+yay -S xprofile
+reboot
+git clone https://github.com/manu-febie/slstatus.git
+cd slstatus
+sudo make clean install 
+cd .suckless/slstatus
+ls
+v config.def.h
+cd slstatus
+rm config.h
+sudo make clean install 
+killall slstatus
+slstatus
+killall slstatus
+rm config.h
+sudo make clean install 
+slstatus
+killall slstatus
+slstatus
+rm config.h
+slstatus
+rm config.h
+slstatus
+ls
+sudo make clean install 
+slstatus
+rm config.h
+sudo make clean install 
+slstatus
+cd slstatus
+rm config.h
+v config.def.h
+v .xprofile
+xprofile
+xprofile -h
+xprofile --config
+xprofile --config .xprofile
+xprofile --h
+xprofile activate
+mv .xprofile .xprofilerc
+xprofile activate\
+xprofile activate
+v .xprofilerc
+v .xprofilerc
+xprofile activate
+v .xprofilerc
+xprofile activate
+v .xprofilerc
+ls
+clear
+cd dwm
+ls
+sudo make clean install 
+cd
+v .xinitrc
+vim .xinitrc
+v .xinitrc
+cd dw
+cd dwm
+cd ..
+rm dwm
+cd .suckless/dwm
+v config.def.h
+yay -Rnc xprofile
+yay -Rnc dwm
+yay -Rnc Machfiles
+cd slstatus
+rm config.h
+v config.def.h
+rm config.h
+sudo make clean install 
+killall slstatus
+slstatus
+rm config.h
+v config.def.h
+rm config.h
+sudo make clean install 
+slstatus
+cd dwm
+git clone https://git.suckless.org/dwm
+cd dwm
+make
+sudo make clean install 
+patch -p1 < dwm-center-20160719-56a31dc.diff
+sudo make clean install 
+rm dwm
+git clone https://git.suckless.org/dwm
+cd dwm
+make 
+sudo make clean install 
+ls
+clear
+patch -p1 < dwm-alwayscenter-20200625-f04cac6.diff
+sudo make clean install 
+git clone https://git.suckless.org/dmenu
+rm dmenu
+git clone https://git.suckless.org/dmenu
+cd dmenu
+male
+make
+sudo make clean install 
+cd .suckless/dmw
+cd .suckless/dmenu
+ls
+v config.def.h
+cd dwm
+sudo amake clean install 
+sudo make clean install 
+yay -S alacritty
+rm dwm
+cp ~/.suckless/dwm ~/
+cd dwm
+cd dwm
+patch -p1 < dwm-attachaside-20180126-db22360.diff
+sudo make clean install 
+ls
+sudo pacman -S htop
+ls
+clear
+htop
+cd dwm
+v config.def.h
+sudo make clean install 
+cd dwm
+patch -p1 < dwm-alwayscenter-20200625-f04cac6.diff
+sudo make clean install 
+v dwm.c
+cp dwm.c.bc
+cp dwm.c dwm.c.bc
+ls
+v dwm.c
+ls
+pwd
+cd
+cd dwm
+ls
+patch -p1 < dwm-namedscratchpads-6.2.diff
+v config.def.h.rej\
+
+cd dwm
+v config.def.h
+rm config.h
+sudo make clean install 
+v config.def.h
+rm config.h
+sudo make clean install 
+cd dwm
+v config.def.h
+rm config.h
+sudo make clean install 
+cd dwm
+v config.def.h
+rm config.h
+sudo make clean install 
+rm dwm
+cp ~/.suckless/dwm ~/
+cd dwm
+patch -p1 < dwm-scratchpads-20200414-728d397b.diff
+v config.def.h.rej
+v dwm.c.rej
+cp dwm.c dwm.c.bc
+v dwm.c
+sudo make clean install 
+rm config.h
+sudo make clean install 
+cd dwm
+v config.def.h
+sudo make clean install 
+cd .suckless/dwm
+v dwm.c.rej
+cd dwm
+v config.def.h
+rm config.h
+sudo make clean install 
+v config.def.h
+rm config.h
+sudo make clean install 
+v config.def.h
+rm config.h
+sudo make clean install 
+v config.def.h
+rm config.h
+sudo make clean install 
+v config.def.h
+cd .suckless/dwm
+cd
+cd dwm
+rm config.h
+sudo make clean install 
+rm config.h
+sudo make clean install 
+v dwm-scratchpads-20200414-728d397b.diff
+mkdir ~/.config/ncmpcpp
+cd ~/.config/ncmpcpp
+ls
+touch config
+v config
+cd
+ncmpcpp
+yay -S ncmcpp
+yay -S ncmpcpp
+ncmpcpp
+ncmpcpp -h
+ncmpcpp --h
+ncmpcpp --help
+ncmpcpp -c
+ncmpcpp --config
+cd slstatus
+ls
+v config.def.h
+killall slstatus
+slstatus
+sudo make clean install 
+slstatus
+rm config.h
+sudo make clean install 
+rm config.h
+slstatus
+cd dm
+cd dwm
+ls
+v config.def.h
+rm config.h
+sudo make clean install 
+sudo make clean install 
+v config.def.h
+rm config.h
+sudo make clean install 
+maje
+make
+sudo make install 
+cd dwm
+sudo make install 
+cd dwm
+sudo make install 
+yay -S deadbeaf
+yay -S deadbeef
+update
+yay -S deadbeef
+sudo rm /usr/include/Block.h
+sudo rm /usr/lib/libBlocksRuntime.so
+yay -S deadbeef
+ls
+clear
+startx
+ls
+cd slstatus
+l
+sls
+ls
+v config.def.h
+rm config.h
+sudo make clean install 
+reboot
+cd dwm
+sudo make clean install 
+ls
+clear
+cd dwm
+v config.def.h
+rm config.h
+sudo make clean install 
+v config.def.h
+rm config.h
+sudo make clean install 
+cd dwm
+v config.def.h
+rm config.h
+sudo make clean install 
+ls
+clear
+yay -Rnc deadbeef-git
+ls
+clear
+cd dmenu
+ls
+ll
+cd .config/ranger
+ls
+v rc.conf
+cd
+ranger -h
+ranger -r ~/.config/ranger/rc.conf
+v
+ranger -r 
+ranger 
+sudo pacman -S pulse
+sudo pacman -S pulseaudio
+yay -S pavucontrol
+cd .config/ranger
+ls
+cd
+git clone https://github.com/alexanderjeurissen/ranger_devicons ~/.config/ranger/plugins/ranger_devicons
+pip install ueberzug
+touch ~/.config/ranger/rc.conf
+v ~/.config/ranger/rc.conf
+ranger
+ranger -h
+ranger --confdir=dir
+yay -S python-ueberzug-git
+pip remove ueberzug
+pip
+pip uninstall ueberzu
+pip uninstall ueberzug
+ranger
+ranger
+yay -S alsa
+alsa_
+alsa_delay
+git clone https://github.com/darch7/swaywm.git
+ranger
+pulseaudio
+sudo pulseaudio
+pulseaudio
+sudo pacman -S alsa-utils\
+
+sudo alsamixer\
+
+sudo pacman -S pulseaudio\
+
+sudo pacman -S lib32-libpulse lib32-alsa-plugins\
+
+yay -S lib32-libpulse lib32-alsa-plugins\
+
+yay -S oss
+yay -S oss
+reboot
+ranger
+ls
+clear
+yay -S ttf-ms-fonts[
+yay -S ttf-ms-fonts
+reboot
+fc-cache
+sudo pacman -Sy
+sudo pacman -S tweak-tool
+sudo pacman -S gnome-tweak-tool
+su
+sudo pacman -S
+yay -S  all-repository-fonts
+reboot
+sudo pacman -S firefox
+yay -Rnc  all-repository-fonts
+yay -S nerd-fonts-complete
+pacman -Qqe
+yay -S nerd-fonts-jetbrains-mono
+yay -Rnc firefox
+bash
+ranger
+yay -Rnc xorg-font
+yay -Rnc xorg-font
+yay -Rnc xorg-font
+yay -Rnc xorg-fonts
+ls
+clear
+startx
+cd /etc/X11/
+ls
+cd 
+cd /usr/
+ks
+ls
+cd share
+ls
+cd X11
+ls
+xs
+yay -S xorg-fonts
+startx
+reboot
+sudo pacman -S ttf-indic-otf\
+
+sudo /etc/pacman.conf
+sudo nvim /etc/pacman.conf
+sudo pacman-key -r 962DDE58\
+
+sudo pacman -Syyu
+sudo pacman -S infinality-bundle infinality-bundle-multilib ibfonts-meta-base\
+
+sudo nvim /etc/pacman.conf
+sudo pacman -Syyu
+yay -S xorg-server
+startx
+sudo pacman -S mesa
+sudo pacman -S intel-ucode
+reboot
+cd .config
+s
+s
+ls
+rm BraveSoftware
+yay -Rnc brave-nightly-bin
+yay -Rnc brave-bin
+yay -S brave-bin
+yay -S brave-bin
+sudo pacman -S xfce4
+lightdm
+sudo pacman -S xfce4-goodies
+lightdm
+sudo pacman  lightdm
+sudo pacman -S lightdm
+sudo pacman -S lightdm-gtk
+sudo pacman -S lightdm-gtk-greeter
+systemctl start lightdm
+ls
+clear
+cd .config/vfetch
+ls
+clear
+v vfetch.py
+ls
+clear
+rm .git
+ls
+v vfetch.py
+v vfetch.conf
+st
+cd .config/vfetch
+v vfetch.conf
+v vfetch.py
+yay -Rnc lightdm
+reboot
+git clone https://github.com/migueravila/Bento.git
+cd slstatus
+v config.def.h
+rm config.h
+sudo make clean install 
+killall slstatus
+slstatus
+rm config.h
+v config.def.h
+rm config.h
+sudo make clean install 
+killall slstatus
+slstatus
+v
+v
+yay -Rnc xfce4 xfce4-goodies
+cd .config/vfetch
+v vfetch.py
+v
+v
+cd ~/.config/vfetch
+ls
+cd ~/.config/vfetch
+ls
+cd ~/.config/vfetch
+v vfetch.py
+v .config/vfetch/vfetch.conf
+v .config/vfetch/vfetch.py
+cd .config/vfetch
+v vfetch.py
+ls
+v vfetch.conf
+v arch
+v vfetch.conf
+v arch
+v vfetch.conf
+v .zshrc
+v .config/vfetch/vfetch.py
+v ~/.config/vfetch/arch
+v ~/.config/vfetch/vfetch.conf
+v .config/vfetch/vfetch.py
+v .config/vfetch/vfetch.conf
+v .config/vfetch/vfetch.py
+time ~/.config/vfetch/vfetch.py
+time ~/.config/vfetch/vfetch.py
+git clone https://gitlab.com/dwt1/shell-color-scripts.git\
+
+cd shell-color-scripts\
+
+rm -rf /opt/shell-color-scripts || return 1\
+
+sudo mkdir -p /opt/shell-color-scripts/colorscripts || return 1\
+
+sudo cp -rf colorscripts/* /opt/shell-color-scripts/colorscripts\
+
+sudo cp colorscript.sh /usr/bin/colorscript\
+
+colors
+cd
+colorscript
+colorscript -r
+colorscript -r
+colorscript -r
+colorscript -r
+colorscript -r
+colorscript -r
+colorscript -r
+colorscript -r
+colorscript -r
+colorscript -r
+colorscript -r
+colorscript -r
+colorscript -r
+colorscript -r
+colorscript -r
+colorscript -r
+colorscript -r
+colorscript -r
+colorscript -r
+colorscript -r
+colorscript -r
+colorscript -r
+colorscript -r
+colorscript -r
+colorscript -r
+colorscript -r
+colorscript -r
+colorscript -r
+colorscript -r
+colorscript -r
+colorscript -r
+colorscript -r
+colorscript -r
+colorscript -r
+colorscript -r
+colorscript -r
+colorscript -r
+colorscript -r
+colorscript -r
+colorscript -r
+colorscript -r
+colorscript -r
+colorscript -r
+colorscript -r
+colorscript -r
+colorscript -r
+colorscript -r
+colorscript -r
+colorscript -r
+colorscript -r
+colorscript -r
+colorscript -r
+colorscript -r
+colorscript -r
+colorscript -r
+colorscript -r
+colorscript -r
+colorscript -r
+colorscript -r
+colorscript -r
+colorscript -r
+colorscript -r
+colorscript -r
+colorscript -r
+colorscript -r
+colorscript -r
+colorscript -r
+colorscript -r
+colorscript -r
+cd .suckless
+ls
+cd .suckless
+git clone https://git.suckless.org/dmenu
+cd dmenu
+sudo make clean install 
+cd .suckless/dmenu
+ks
+ls
+patch -p1 < dmenu-fuzzyhighlight-4.9.diff
+sudo make clean install 
+patch -p1 < dmenu-lineheight-5.0.diff
+v dmenu.c.rej
+poweroff
+htop
+cd dmenu
+cd  .suckless/dmenu
+v dmenu.c.rej
+v dmenu.c.rej
+cd .suckless/dmenu
+v dmenu.c
+sudo make clean install 
+v dmenu.c
+sudo make clean install 
+rm config.
+rm config.h
+sudo make clean install 
+dmenu_run -h40
+dmenu_run -h 40
+v .zshrc
+v .zshrc
+zsh
+ls
+v .zshrc
+zsh-5.8 .bash_history
+cd  .suckless/dmenu
+v dmenu.c.rej
+cd  .suckless/dmenu
+v dmenu.c
+sudo make clean install 
+cd  .suckless/dmenu
+zsh
+ls
+patch -p1 < dmenu-lineheight-5.0.diff
+patch -p1 < dmenu-highlight-4.9.diff
+v dmenu.c.rej
+cd  .suckless/dmenu
+v config.def.h
+cd ..
+cp dmenu ~/
+cd dmenu
+ls
+clear
+cd ..
+rm dmenu
+cd
+bash
+lsattr
+ls
+ls -1
+ls
+clear
+cd .suckless/dmenu
+cd dmenu
+ls
+rm .git
+ls
+v config.def.h
+rm config.h
+sudo make clean install 
+git clone https://github.com/ChristianChiarulli/dmenu-old.git
+cd dmenu
+cd
+cd dmenu-old
+ls
+sudo make clean install 
+\:q
+cd
+rm dmenu-old
+v dmenu
+cd dmenu
+ls
+dmenu_run -p >
+dmenu_run -p ">"
+sudo make clean install 
+sudo make clean install 
+sudo make clean install 
+dmenu_run -p ">"
+cd
+ls
+rm dmenu-old
+cp dmenu ~/.suckless
+rm dmenu-old
+cd .suckless/dmenu
+ls
+clear
+cd 
+ls
+cd dmenu
+ls
+cd dmenu
+ls
+sudo make clean install 
+ls
+clear
+ls
+ls
+yay -Rnc ncmpcpp 
+cd
+ls
+ls
+clear
+ranger
+cd .suckless/dmenu
+ls
+..
+cd ..
+cd st
+ls
+v x.c
+sudo make clean install 
+rm config.h
+sudo make clean install 
+cd .suckless/
+git clone https://git.suckless.org/st
+cd st
+ls
+sudo make clean install 
+rm .git
+ls
+rm config.h
+ls
+v config.def.h
+ls
+patch -p1 < st-boxdraw_v2-0.8.3.diff
+sudo make clean install 
+ls
+patch -p1 < st-clipboard-0.8.3.diff
+sudo make clean install 
+ls
+patch -p1 < st-font2-20190416-ba72400.diff
+v x.c.rej
+ls
+patch -p1 < st-bold-is-not-bright-20190127-3be4cf1.diff
+sudo make clean install 
+rm config.h
+sudo make clean install 
+cd .suckless/
+;s
+ls
+cd st
+ls
+sudo make clean install 
+sudo make install 
+make
+cd .suckless/st
+ls
+patch -p1 < st-ligatures-20200430-0.8.3.diff
+v st.h.rej
+git clone https://github.com/siduck76/st.git
+ls
+clear
+st
+cd st
+ls
+sudo make install 
+cd
+rm .Xresources
+cd st
+ls
+cp xresources ~/.Xresources
+sudo make install 
+ls
+v 
+cd .suckless/st
+v st.h
+rm config.h
+sudo make clean install 
+v st.h
+sudo make clean install 
+cd st
+ls
+sudo make clean install 
+ls
+vim st-xresources-20180309-c5ba9c0.diff
+cd st
+ls
+v config.def.h
+v x.c
+rm config.h
+sudo make install 
+v x.c
+cd st
+sudo make clean install 
+rm config.h
+sudo make clean install 
+rm config.h
+sudo make clean install 
+cd .suckless/st
+v st.c
+rm config.h
+sudo make clean install 
+ls
+ls
+ls
+ls
+
+vb
+v
+rm st
+cd st
+cd .suckless/
+rm st
+ls
+git clone https://git.suckless.org/st
+cd st
+ls
+rm .git
+ls
+ls
+patch -p1 < st-alpha-0.8.2.diff
+sud 
+rm config.h
+sudo make clean install 
+v config.def.h
+rm config.h
+sudo make clean install 
+ls
+patch -p1 < st-scrollback-0.8.4.diff
+v st.h.rej
+v st.c.rej
+ls
+patch -p1 < st-scrollback-mouse-20191024-a2c479c.diff
+sudo make clean install 
+rm config.h
+sudo make clean install 
+ls
+patch -p1 < st-scrollback-mouse-altscreen-20200416-5703aa0.diff
+rm config.h
+sudo make clean install 
+ls
+patch -p1 < st-ligatures-alpha-scrollback-20200430-0.8.3.diff
+sudo make clean install 
+rm config.h
+sudo make clean install 
+patch -p1 < st-clipboard-0.8.3.diff
+sudo make clean install 
+rm config.h
+sudo make clean install 
+patch -p1 < st-boxdraw_v2-0.8.3.diff
+v Makefile.rej
+v st.h.rej
+cd .suckless/st
+v Makefile
+v st.h
+sudo make clean install 
+v st.h
+cd
+cd .suckless/st
+cd ..
+rm st
+ks
+git clone https://github.com/siduck76/st.git
+cd st
+ls
+sudo make clean install 
+yay -S xterm
+ls
+v .Xresources
+ls
+clear
+xrdb -merge ~/.Xresources\
+
+cd .suckless/dmenu
+v config.def.h
+git clone https://git.suckless.org/dmenu
+cd dmenu
+ls
+cd
+rm dmenu
+git clone https://git.suckless.org/dmenu
+cd dmenu
+ls
+rm .git
+patch -p1 < dmenu-xresources-4.9.diff
+sudo make clean install 
+cd
+v .Xresources
+rm config.h
+cd dmenu
+rm config.h
+sudo make clean install 
+cd
+v .Xresources
+v .Xresources
+ls
+clear
+xrdb -merge ~/.Xresources\
+
+git clone https://github.com/hashtagsaurav/dotfiles.git
+cd .config
+ls
+cd nemo
+ls
+cd ..
+ls
+rm ncmpcpp
+l
+ls
+rm nemo
+ls
+clear
+mkdir nvim
+cd nvim
+ls
+touch init.vim
+mkdir vim-plug
+mkdir plug-config
+mkdir general
+mkdir colors
+ls
+git clone https://github.com/ChristianChiarulli/nvcode-color-schemes.vim.git
+v init.vim
+ls
+cd .suckless/dwm
+v config.def.h
+rm config.h
+sudo make clean install 
+sudo pacman -S sddm plasma-meta
+yay
+cd
+sudo pacman -S sddm plasma-meta
+systemctl disable lightdm
+systemctl enable sddm
+systemctl enable sddm
+systemctl enable sddm
+reboot
+cd .suckless/dwm
+v config.def.h
+rm config.h
+sudo make clean install 
+sudo pacman -S sddm plasma-meta
+yay
+cd
+sudo pacman -S sddm plasma-meta
+systemctl disable lightdm
+systemctl enable sddm
+systemctl enable sddm
+systemctl enable sddm
+reboot
+ls
+clear
+ls
+sudo pacman -S kde-applications
+ls
+clear
+ls
+cd suckless
+ls
+ls -la
+cd dmenu
+sudo make clean install
+cd ..
+cd dwm
+ls
+sudo make clean install 
+cd ..
+cd slstatus
+sudo make clean install
+cd ..
+cd st
+sudo make clean install
+cd suckless
+cd dwm
+v config.def.h
+ls
+clear
+l
+ls
+clear
+nvim
+ls
+clear
+clear
+ls
+clear
+nvim
+nvim
+cd NvChad
+ls
+cd lua
+ls
+clear
+ls
+cd NvChad/lua
+ls
+cd plugins
+ls
+cp dashboard.lua ~/.config/nvim/plug-config
+cd
+cd .config/nvim/plug-config
+ls
+cd .
+cd ..
+cd vim-plug
+nvim plugins.vim
+nvim
+nvim
+cd ..
+nvim init.vim
+nvim
+cd vim-plug
+nvim plugins.vim
+cd ...
+cd ..
+ls
+cd plug-config
+ls
+rm dashboard.lua
+ls
+clear
+cd ..
+ls
+nvim
+ls
+nvim init.vim
+ls
+nvim
+paru -Rnc xfce4-appfinder
+paru -Rnc xfce4-battery-plugin
+paru -Rnc xfce4-clipman-plugin
+paru -Rnc xfce4-cpufreq-plugin
+paru -Rnc xfce4-cpugraph-plugin
+paru -Rnc xfce4-datetime-plugin
+paru -Rnc xfce4-dict
+paru -Rnc xfce4-diskperf-plugin
+paru -Rnc xfce4-eyes-plugin
+paru -Rnc xfce4-fsguard-plugin
+paru -Rnc xfce4-genmon-plugin
+paru -Rnc xfce4-mailwatch-plugin
+paru -Rnc xfce4
+paru -Rnc xfce4-goodies
+ls
+sudo pacman -S exa
+pacman -Qqe
+ls
+paru -Rnc arcolinux-logo-git
+ls
+rm -rf arcolinux-logo
+ls
+paru -Rnc coc
+rm -rf coc
+ls
+paru -Rnc dconf
+paru -Rnc pamac-all
+paru -Rnc yay-bin
+paru -Rnc snap
+paru -Rnc snapd
+paru -Rnc snapd-glib
+paru -Rnc flatpak
+paru -Rnc gnome-bluetooth
+paru -Rnc gnome-desktop
+paru -Rnc gnome-disk-utility
+paru -Rnc gnome-icon-theme
+paru -Rnc gnome-icon-theme-symbolic
+paru -Rnc gnome-keyring
+paru -Rnc gnome-logs
+paru -Rnc gnome-menus
+paru -Rnc gnome-online-accounts
+paru -Rnc gnome-screenshot
+paru -Rnc gnome-system-log
+paru -Rnc gnome-themes-extra
+ls
+clear
+ls
+paru -Rnc font-manager-git
+ls
+paru -Rnc fontconfig
+ls
+paru -Rnc urxvt-fullscreen
+paru -Rnc urxvt-perls
+paru -Rnc urxvt-resize-font-git
+paru -Rnc rxvt-unicode
+stratx
+startx
+cd
+startx
+cd .config
+git clone https://github.com/Lorago/vfetch.git
+ls
+clear
+ls
+pip install distro\
+
+sudo pacman -S pyhon-pip
+sudo pacman -S python-pip
+pip install pyxdg
+pip install wmctrl-python3
+ranger
+rm st
+rm st-distrotube
+mv suckless .suckless
+cd .suckless
+l
+ls
+ls
+rm .git
+ls
+rm st
+l
+git clone http://git.suckless.org/st
+sudo pacman -S thunar
+sudo pacman -S nemo nemo-filesroller
+sudo pacman -S nemo
+cd .suckless/st
+rm config.h
+sudo pacman -S nemo
+sudo make clean install
+cd .suckless/st
+ls
+clear
+rm .git
+ls
+make
+sudo make clean install
+patch -p1 < st-anygeometry-0.8.1.diff
+sudo make clean install
+rm config.h
+sudo make clean install\
+sudo make clean install
+ls
+rm config.h
+patch -p1 < st-anysize-0.8.4.diff
+v x.c.rej
+clear
+cd .suckless/st
+ls
+rm config.h
+ls
+patch -p1 < st-bold-is-not-bright-20190127-3be4cf1.diff
+rm config.h
+sudo make clean install
+patch -p1 < st-boxdraw_v2-0.8.3.diff
+rm config.h
+sudo make clean install
+rm config.h
+ls
+patch -p1 < st-nordtheme-0.8.2.diff
+rm config.h
+sudo make clean install
+ls
+clear
+cd .suckless/st
+ls
+rm config.h
+nvim config.
+nvim config.def.h
+rm config.h
+sudo make clean install
+
+ls
+clar
+nvim
+ls
+clear
+cd .suckless/st
+ls
+nvim
+cd .suckless/st
+patch -p1 < st-scrollback-20210507-4536f46.diff
+sudo make clean install
+rm config.h
+sudo make clean install
+patch -p1 < st-scrollback-mouse-20191024-a2c479c.diff 
+rm config.h
+sudo make clean install
+patch -p1 < st-scrollback-mouse-altscreen-20200416-5703aa0.diff
+sudo make clean install
+rm config.h
+sudo make clean install
+cd .suckless/st
+v st.h
+cd .config/alacritty
+nvim alacritty.yml
+cd 
+cd .suckless/st
+ls
+patch -p1 < st-alpha-0.8.2.diff
+v config.def.h.rej
+v st.h.rej
+cd .suckless/st
+v config.def.h
+ls
+clear
+
+cd .suckless/st
+rm config.h
+sudo make clean install
+rm config.h
+sudo make clean install
+picom
+paru -S picom-git
+cd .suckless/st
+rm config.h
+sudo make clean install
+rm config.h
+sudo make clean install
+nvim config.def.h
+rm config.h
+sudo make clean install
+nvim config.def.h
+cd .suckless/st
+ls
+clear
+patch -p1 < st-ligatures-alpha-scrollback-20200430-0.8.3.diff
+v Makefile.rej
+cd .suckless/st
+ls
+v st.h
+sudo make clean install
+cd .suckless/st
+v Makefile
+rm config.h
+sudo make clean install
+ls
+v st.h.rej
+ls
+clear
+nvim
+nvim
+cd .suckless/st
+rm config.h
+sudo make clean install
+v st.h.rej
+cd .suckless/st
+sudo make clean install
+sudo make clean install
+sudo make clean install
+sudo make clean install
+;s
+ls
+clear
+->
+cd .suckless/st
+v Makefile'
+v Makefile
+v Makefile
+v Makefile
+patch -p1 < st-ligatures-alpha-scrollback-20200430-0.8.3.diff
+patch -p1 < st-ligatures-alpha-scrollback-20200430-0.8.3.diff
+ls
+clear
+ls
+ls
+clear
+nvim
+nvim
+git clone http://git.suckless.org/st
+cd st
+;s
+ls
+rm .git
+ls
+patch -p1 < st-ligatures-20200430-0.8.3.diff
+sudo make clean install
+rm config.h
+sudo make clean install
+cd .suckless/st
+cd ~/.suckless/st
+sudo make clean install
+ls
+clear
+ls
+clear
+ls
+clear
+cd .suckless/st
+ls
+rm config.h
+v config.def.h
+ls
+ls
+clear
+cd ~/.suckless/st
+rm config.h
+sudo make clean install
+rm config.h
+sudo make clean install
+rm config.h
+sudo make clean install
+v config.def.h
+rm config.h
+sudo make clean install
+cd ~/.suckless/st
+v config.def.h
+rm config.h
+sudo make clean install
+cd .suckless/st
+v config.def.h
+sudo make clean install
+cd .suckless/st
+rm config.h
+sudo make clean install
+ls
+clear
+cd .suckless/st
+rm config.h
+sudo make clean install
+cd 
+cd .suckless/st
+ls
+cd
+cd .config/alacritty
+ls
+v alacritty.yml
+ls
+clear
+ls
+clear
+cd .suckless/st
+l
+ls
+rm config.h
+v config.def.h
+v
+ls
+clear
+cd .suckless/dwm
+ls
+v config.def.h
+cd .suckless/dwm
+rm config.h
+sudo make clean install
+$EDITRO
+st -e nvim
+EDITOr
+EDITOR
+EDITOR=nvim
+ls
+sudo visudo
+EDITOR
+$EDITRO
+clear
+cd .suckless/dwm
+v .zshrc
+paru -Rnc nano
+v config.def.h
+v .zshrc
+zsh
+cd .config/nvim/vim-plug
+ls
+v plugins.vim
+nvim
+nvim
+nvim
+cd ..
+ls
+v init.vim
+cd plug-config
+ks
+v nerdtree.vin
+v nerdtree.vim
+nvim
+cd
+nvim
+ls
+sudo pacman -S firefox
+paru
+paru -Syyu
+sudo pacman -Syyu
+cd /etc
+sudo nvim pacman.conf
+sudo pacman -Syyu
+sudo pacman -Syu
+su
+cd st
+ls
+v x.c
+rm config.h
+sudo pacman -Syu
+sudo make clean install
+v x.c
+rm x.c
+pwd
+cd
+cd .suckless/st
+ls
+cp x.c ~/st
+cd 
+cd st
+ls
+v x.c
+sudo make clean install
+rm config.h
+sudo make clean install
+v config.def.h
+rm config.h
+sudo make clean install
+ls
+clear
+ll
+cd st
+sudo make clean install
+cd ..
+ls
+cd .suckless/st
+ls
+pwd
+ls
+cd
+cd st
+ls
+patch -p1 < st-font2-20190416-ba72400.diff
+v x.c.rej
+ll
+rm st
+cp ~/.suckless/st ~/
+ls
+ll
+cd st
+ls
+sudo pacman -S
+sudo pacman -yy
+sudo pacman -yu
+sudo pacman -Syyuu
+sudo pacman -Syu
+sudo pacman -Syu
+sudo pacman -S firefox
+cd .config/BraveSoftware/Brave-Browser
+ls
+cd Default
+ls
+cd ..
+ls
+ls
+claer
+ls
+cd dwm
+s
+ls
+v dwm.c
+rm config.h
+sudo pacman -S firefox
+sudo make clean install
+v dwm.c
+sudo make clean install
+cd .suckless/dwm
+ls
+v config.def.h
+cd
+git clone http://git.suckless.org/dwn
+git clone http://git.suckless.org/dwm
+cd dwm
+ls
+ls
+ls
+sudo make clean install
+ls
+clear
+patch -p1 < dwm-activetagindicatorbar-6.2.diff
+sudo make clean install
+patch -p1 < dwm-attachaside-6.1.diff
+ls
+rm dwm-fixborders-6.2.diff
+ls
+ls
+patch -p1 < dwm-alpha-20201019-61bb8b2.diff
+sudo make clean install
+rm config.h
+sudo make clean install
+ls
+ls
+patch -p1 < dwm-center-6.2.diff
+sudo make clean install
+ls
+patch -p1 < dwm-centeredwindowname-20200723-f035e1e.diff
+patch -p1 < dwm-colorbar-6.2.diff
+v dwm.c.rej
+ls
+clear
+cd dwm
+ls
+v config.def.h
+rm config.h
+sudo make clean install
+ls
+clear
+ls
+clear
+ls
+cd .suckless/dwm
+sudo make clean install
+v
+cd .suckless/dwm
+v config.def.h
+v dwm.c
+cd .suckless/dwm
+ls
+v dwm-scratchpads-20200414-728d397b.diff
+v dwm-scratchpads-20200414-728d397b.diff
+cd .suckless/dwm
+cd ..
+cd ..
+ls
+cd dwm
+ls
+rm config.h
+sudo make clean install
+cd
+mv dwm ~/.config
+ls
+cd st
+ls
+cd
+cd st
+v config.def.h
+sudo make clean install
+git clone http://git.suckless.org/dwm
+ls
+cd dwm
+ls
+ls
+patch -p1 < dwm-activetagindicatorbar-6.2.diff
+patch -p1 < dwm-attachaside-20180126-db22360.diff
+rm config.h
+sudo make clean install
+patch -p1 < dwm-centeredwindowname-20200723-f035e1e.diff
+patch -p1 < dwm-colorbar-6.2.diff
+v dwm.c.rej
+cd .config/suckless/dwm
+ls
+v dwm.c
+cd
+cd dwm
+sudo make clean install
+rm config.h
+sudo make clean install
+sudo make clean install
+cd dwm
+v dwm.c
+sudo make clean install
+rm config.h
+sudo make clean install
+ls
+patch -p1 < dwm-status2d-20200508-60bb3df.diff
+v dwm.c
+ls
+patch -p1 < dwm-vanitygaps-20200610-f09418b.diff
+rm config.h
+sudo make clean install
+v
+cd dwm
+v config.def.h
+cd dwm
+ls
+v config.def.h
+sudo make clean install
+rm config.h
+sudo make clean install
+cd .config/suckless/dwm
+v config.def.h
+cd .config/suckless/dwm
+v config.def.h
+rm config.h
+sudo make clean install
+ls
+v config.def.h
+ls
+v config.def.h
+cd .config/suckless/dwm
+v dwm.c
+cd .config/suckless/dwm
+v dwm.c
+sudo pacman -S neofetch
+neofetch
+v config.def.h
+cd ..
+cd st
+v config.def.h
+rm config.h
+sudo pacman -S neofetch
+sudo make clean install
+cd .config/suckless/dwm
+v dwm.c
+git clone https://gitlab.com/ysfgeorge07/dotfiles.git
+figlet
+sudo pacman -S figlet
+figlet Dotfiles
+cd dotfiles
+ls
+rm .xmonad
+ls
+git commit -m 'rm'
+cd
+rm dotfiles
+figlet Dotfiles
+cd .config/suckless/st
+ls
+v config.def.h
+rm config.h
+sudo make clean install
+rm config.h
+v config.def.h
+rm config.h
+sudo make clean install
+v config.def.h
+sudo make clean install
+v config.def.h
+git clone https://github.com/ysfgrg/dotfiles.git
+cd dotfiles
+ls
+cp ~/.config/suckless .
+git add 
+git add -h
+git add -A
+git commit -m 'Adding Suckless configs'
+  git config --global user.email "ysfgeorge07@gmail.com"
+  git config --global user.name "ysfgrg"
+  git config --global user.email "ysfgeorge07@gmail.com"
+git commit -m 'Adding Suckless configs'
+git push
+rm suckless
+cd
+cd dotfiles
+ls
+git pull
+ls
+ls
+clear
+mkdir suckless
+cd suckless
+mkdir .config
+cd .config
+ls
+cp ~/.config/suckless .
+cd ..
+git add -A
+git commit -m 'Adding Suckless configs'
+git push
+ls
+cd 
+cd dotfiles
+ls
+cd dwm
+ls
+v config.def.h
+startx
+ls
+clear
+cd .config
+nvim suckless/dwm/config.h
+git clone https://gitlab.com/dwt1/st-distrotube.git
+cd .suckless/st
+cd .suckless/
+ls
+cd ~/.config/suckless/st
+ls
+rm st-font2-20190416-ba72400.diff
+cd
+cd ~/.config/suckless/st
+v config.def.h
+rm config.h
+sudo make clean install
+v config.def.h
+sudo make clean install
+rm config.h
+sudo make clean install
+;s
+v .Xresources
+;s
+ll
+git clone https://gitlab.com/dwt1/st-distrotube.git
+cd st-distrotube
+rm .git
+sudo make clean install
+ls
+clear
+cd .config/suckless/st
+v config.def.h
+cd .config/suckless/st
+cd ~/.config/suckless/st
+sudo make clean install
+cd
+cd .config/suckless/st
+ls
+cd ~/.config/suckless/st
+v config.def.h
+rm config.h
+sudo make clean install
+v config.def.h
+rm config.h
+sudo make clean install
+rm config.h
+sudo make clean install
+ls
+la
+ls
+v config.def.h
+rm config.h
+sudo make clean install
+rm config.h
+sudo make clean install
+v config.def.h
+rm config.h
+sudo make clean install
+cd ~/.config/suckless/st
+rm config.h
+sudo make clean install
+ls
+ks
+ls
+clear
+cd .config/suckless/st
+v config.def.h 
+clear
+cd .config/suckless/dwm
+v config.def.h 
+rm config.h
+sudo make clean install
+ls
+clear
+ls
+clear
+cd .config/suckless/dwm
+v config.def.h 
+v config.def.h 
+cd ..
+cd s
+cd st
+ls
+v config.def.h
+rm config.h
+sudo make clean install
+rm config.h
+sudo make clean install
+v config.def.h
+rm config.h
+sudo make clean install
+ls
+clear
+cd .config/suckless/dwm
+v config.def.h
+ls
+clear
+cd .config/suckless/dwm
+v config.def.h 
+cd ..
+ls
+cd st-distrotube
+cd st
+ls
+v config.def.h 
+ls
+ls
+clear
+cd .config/suckless/dwm
+v config.def.h 
+cd st-distrotube
+ls
+sudo make clean install
+cd ~/.config/suckless/st
+v config.def.h
+ls
+clear
+cd st
+cd st-distrotube
+ls
+v config.def.h 
+rm config.h
+sudo make clean install
+rm config.h
+v config.def.h 
+rm config.h
+sudo make clean install
+v config.def.h 
+cd dotfiles
+ls
+git pull
+cp ~/.config/suckless .
+git add -A
+git commit -m 'Adding Suckless configs'
+git push
+git push
+git push
+cp ~/.config/nvim .
+cp ~/.config/alacritty .
+git add -A
+git push
+git commit -m 'nvim and alacritty configs'
+git push
+nvim .zshrc
+ls
+clear
+clear
+cd .config/alacritty
+nvim alacritty.yml
+cd .config/suckless/dwm
+rm config.h
+ls
+sudo make clean install
+mkdir .zsh
+cd .zsh
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git
+cd .zsh
+git clone https://github.com/zsh-users/zsh-autosuggestions.git
+git clone https://github.com/ChristianChiarulli/Wallpapers.git
+sudo pacman -S ranger 
+paru -S picom-git
+cd .config/suckless/dwm
+ls
+v config.def.h 
+rm config.h
+sudo pacman -S ranger 
+sudo make clean install
+rm config.h
+sudo make clean install
+cd /usr/share/fonts
+ls
+cd TTF
+ls
+cd .config/suckless/dwm
+v config.def.h 
+rm config.h
+sudo make clean install
+cd .config/suckless/st
+v config.def.h
+v config.def.h 
+cd .config/suckless/dwm
+v config.def.h 
+rm config.h
+sudo make clean install
+cd .config/suckless/dwm
+v config.def.h 
+rm config.h
+sudo make clean install
+cd .config/suckless/dwm
+v config.def.h 
+rm config.h
+sudo make clean install
+cd .config/suckless/dwm
+v config.def.h 
+rm config.h
+sudo make clean install
+poweroff
+cd .config/neofetch
+ls
+clear
+v config.conf
+cd .config/suckless/dwm
+cp config.def.h config-def.h
+ls
+v config.def.h 
+rm config.h
+sudo make clean install
+cd .config/suckless/dwm 
+v ~/.zshrc
+ls
+neofetch
+cd dwm
+ls
+cd
+rm dwm
+rm dotfiles
+ls
+v config.def.h 
+cd .config/suckless/dwm 
+v config.def.h 
+rm config.h
+sudo make clean install
+v config.def.h 
+cd .config/suckless/dwm 
+v config.def.h 
+rm config.h
+sudo make clean install
+cd .config/suckless/dwm 
+v config.def.h 
+rm config.h
+sudo make clean install
+cd .config/suckless/dwm 
+rm config.h
+sudo make clean install
+v config.def.h 
+cd .config/suckless/dwm 
+v config.def.h 
+rm config.h
+sudo make clean install
+cd .config/suckless/dwm 
+ls
+clear
+v config.def.h 
+rm config.h
+sudo make clean install
+sudo pacman -S f-mononoki
+sudo pacman -S ttf-mononoki
+paru -S ttf-mononoki
+cd .config/suckless/dwm 
+v config.def.h 
+cd .config/suckless/dwm 
+rm config.h
+sudo make clean install
+ranger
+cd .config/suckless/dwm 
+v config.def.h 
+rm config.h
+sudo make clean install
+cd .config/suckless/dmenu
+ls
+v config.def.h 
+rm config.h
+sudo make clean install
+v config.def.h 
+rm config.h
+sudo make clean install
+v config.def.h 
+rm config.h
+cd ..
+rm dmenu
+git clone https://github.com/ChristianChiarulli/dmenu-old.git dmenu
+cd dmenu
+sudo make clean install
+ls
+v config.def.h 
+rm .git
+rm README.md
+rm config.h
+sudo make clean install
+cd .config/suckless/dwm
+v config.def.h 
+rm config.h
+sudo make clean install
+curl -sL install-node.now.sh/lts | bash
+sudo curl -sL install-node.now.sh/lts | bash
+cd .config/nvim/vim-plug
+v plugins.vim
+rm config.h
+nvim
+nvim
+nvim
+curl -sL install-node.now.sh/lts | bash\
+
+curl -sL install-node.now.sh/lts | bash\
+
+sudo curl -sL install-node.now.sh/lts | bash\
+
+su
+nvim
+cd .config
+ls
+mkdir coc
+cd coc
+ls
+v memos.json
+./pfetch
+v
+cd .config/nvim/vim-plug
+v memos.json
+v plugins.vim
+v
+sudo pacman -S fish pfetch
+sudo pacman -S fish 
+fish
+sudo pacman -S pavucontrol
+sudo pacman -S pulse-audio
+sudo pacman -S pulseaudio
+pulseaudio -k
+pfetch
+./pfetch
+sudo pulseaudio
+paru -S alsa
+paru -S python-pip
+paru -S cargo
+cargo neovide
+cargo
+cargo install neovide
+v .zshrc
+./pfetch
+./pfetch
+v .zshrc
+zsh
+cd .config/nvim/vim-plug
+v plugins.vim
+v .zshrc
+ls
+clear
+cd .config/nvim/autoload
+paru -S zsh-git
+zsh
+ls
+clear
+: 1626459015:0;ls
+: 1626459017:0;clear
+: 1626459113:0;cd .zsh
+: 1626459114:0;ls
+: 1626459121:0;paru -S zsh-autosuggestions
+: 1626459136:0;paru -S zsh-syntax-highlighting
+: 1626459144:0;paru -S zsh-completion
+: 1626459155:0;paru -S zsh-completions
+mv .zshrc ~/.cache
+ls
+sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+: 1626459161:0;ls
+: 1626459162:0;clear
+: 1626459174:0;sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/uninstall.sh)"
+ls
+clear
+cd .config
+cd .
+cd ..
+v .zshrc
+ls
+cleart
+cd .config/nvim
+ls
+clear
+cd 
+cd .zsh
+ls
+git clone https://github.com/zsh-users/zsh-completions.git
+cd ..
+v .zshrc
+ls
+clear
+cd .zsh
+ls
+cd zsh-completions
+ls
+clear
+v .zshrc
+zsh
+sudo visudo
+sudo v
+nano
+vim
+v .zshrc
+zsh
+nvim
+ld
+lcear
+clear
+cd .config/suckless/dmenu
+cd ..
+ls
+cd st
+ls
+ls
+cd..
+cd ..
+ls
+cd dwm
+ls
+clear
+v config.def.h 
+rm config.h
+sudo make clean install
+cd
+startx
+startx
+reboot
+bash
+bash
+cd .bashrc
+v .bashrc
+bash
+paru -S oss
+pacman -S alsa-utils\
+
+sudo pacman -S alsa-utils\
+
+amixer sset Master unmute\
+
+sudo amixer sset Master unmute\
+
+amixer: Unable to find simple control 'Master',0\
+
+amixer : Unable to find simple control 'Master',0
+cat/proc/asound/cards
+cat /proc/asound/cards
+v /proc/asound/cards
+sudo pacman -S pulseaudio\
+
+paru -S ncpamixer\
+
+paru -S paman
+reboot
+cd .config/nvim
+ls
+v init.vim
+cd vim-plug
+ls
+v plugins.vim
+nvim
+bash
+l
+v 
+./pfetch
+paru -S zip uzip
+paru -S nemo-fileroller
+cd .config/suckless/dwm
+ls
+rm config.h
+v config.def.h 
+sudo pacman -S nemo
+sudo pacman -S sxiv
+sxiv ~/Downloads/nightTab\ -\ Chrome\ Themes
+sxiv ~/Downloads/nightTab\ -\ Chrome\ T
+sxiv ~/Downloads/nightTab\ -\ Chrome\ 
+./pfetch
+cd Desktop
+ls
+./brave-agimnkijcaahngcdmfeangaknmldooml-Default.desktop
+run brave-agimnkijcaahngcdmfeangaknmldooml-Default.desktop
+sudo pacman -S run
+paru -S run
+cd Desktop
+run brave-agimnkijcaahngcdmfeangaknmldooml-Default.desktop
+v brave-agimnkijcaahngcdmfeangaknmldooml-Default.desktop
+env
+chmod +x brave-agimnkijcaahngcdmfeangaknmldooml-Default.desktop
+./brave-agimnkijcaahngcdmfeangaknmldooml-Default.desktop
+sh ./brave-agimnkijcaahngcdmfeangaknmldooml-Default.desktop
+env ./brave-agimnkijcaahngcdmfeangaknmldooml-Default.desktop
+mv brave-agimnkijcaahngcdmfeangaknmldooml-Default.desktop brave-agimnkijcaahngcdmfeangaknmldooml-Default.sh
+./brave-agimnkijcaahngcdmfeangaknmldooml-Default.sh
+sudo pacman -S firefox
+ll
+git clone https://gitlab.com/dwt1/dwm-distrotube.git
+cd dwm-distrotube
+make 
+sudo make clean install
+ls
+clear
+cd dwm-distrotube
+lsd
+v config.def.h 
+v dwm.c
+git clone https://gitlab.com/dwt1/st-distrotube.git
+git clone https://gitlab.com/dwt1/dwmblocks-distrotube.git
+ls
+cd st-distrotube
+sudo make clean install
+cd ..
+ls
+cd dwmblocks-distrotube
+sudo make clean install
+cd .config/suckless/dwm
+ls
+v config.def.h 
+v dwm.c
+v .xinitrc
+cd .config/suckless/dwm
+v dwm-attachaside-20180126-db22360.diff
+cp dwm-distrotube /opt
+sudo cp dwm-distrotube /opt
+sudo cp -r dwm-distrotube /opt
+sudo nemo
+cd .config/suckless/dwm
+sudo ma
+sudo make clean install
+ls
+dunst
+sudo pacman -S dunst
+v .config/alacritty/alacritty.yml
+ls
+v .config/alacritty/alacritty.yml
+ls
+clear
+sudo cp -r Downloads/OneDark /usr/share/themes
+sudo pacman -S lxappearance-gtk3
+sudo pacman -S lxsession
+cd /usr/share/themes
+ls
+cd OneDark
+ls
+cd /usr/share/themes
+rm OneDark
+sudo rm OneDark
+ls
+sudo rm OneDark
+sudo rm -rf OneDark
+paru -S gtk-theme-material-black
+sudo pacman -S adwita
+paru -S adwaita-dark
+v .Xresources
+cd .config/suckless
+git clone https://github.com/siduck76/st.git
+rm st
+git clone https://github.com/siduck76/st.git
+cd st
+rm .git
+rm .gitignore
+rm xresources
+sudo make clean install
+sudo make clean install
+ls
+clear
+ls
+clear
+lc
+clear
+ls
+clear
+ls
+clear
+paru -S gtk-theme-material-black
+cd .config/suckless
+rm st
+git clone https://github.com/ChristianChiarulli/st.git
+cd st
+rm .git
+rm .gitignore
+ls
+sudo make clean install
+cd 
+v .Xresources
+ls
+cd .config/suckless/st
+mv Xresources ~/.Xresources
+ls
+clear
+cd .config/suckless/st
+sudo make clean install
+ls
+clear
+git clone https://github.com/ChristianChiarulli/st.git
+cd st
+sudo make install 
+mv Xresources ~/.Xresources\
+
+ls
+clear
+xrdb -merge ~/.Xresources\
+
+ls
+clear
+nvim
+cd st
+ls
+v config.def.h
+cd
+v .Xresources
+xrdb -merge ~/.Xresources\
+
+ls
+clear
+nvim
+v .Xresources
+ls
+cd st
+ls
+rm .git
+rm .gitignore
+ls
+v config.def.h
+rm config.h
+sudo make install 
+cd
+xrdb -merge ~/.Xresources\
+
+ls
+clear
+v config.def.h
+cd st
+;s
+v config.def.h
+rm config.h
+sudo make install 
+ls
+clear
+ls
+clear
+xrdb -merge ~/.Xresources\
+
+ls
+clear
+ls
+git clone https://github.com/ChristianChiarulli/st.git\
+
+cd st\
+sudo make clean install
+mv Xresources ~/.Xresources\
+
+xrdb -merge ~/.Xresources\
+
+ls
+clear
+cd st\
+sudo make clean install
+ls
+rm config.h
+sudo make install 
+ls
+clear
+rm st
+git clone https://github.com/ChristianChiarulli/st.git
+cd st
+rm .git
+rm .gitignore
+s
+sudo make install 
+cd
+v .Xresources
+xrdb -merge ~/.Xresources\
+
+cd st
+cd
+v .Xresources
+xrdb -merge ~/.Xresources\
+
+rm st
+sl
+ll
+rm st
+rm .Xresources
+git clone https://github.com/siduck76/st.git
+cd st
+ls
+cp xresources ~/.Xresources
+ls
+clear
+ls
+clear
+ls
+clear
+cd st
+sudo make install 
+cd
+xrdb -merge ~/.Xresources\
+
+cd .config/suckless/dmenu
+v config.def.h
+rm config.h
+sudo make install 
+cd
+cd .config
+cd
+ls
+v .Xresources
+ls
+clear
+xrdb -merge ~/.Xresources\
+
+xrdb -merge ~/.Xresources
+ls
+v .Xresources
+ls
+clear
+xrdb -merge ~/.Xresources
+s
+cd st
+sudo make uninstall
+paru -Rnc st
+git clone https://github.com/ChristianChiarulli/Machfiles.git
+ranger
+git clone https://github.com/alexanderjeurissen/ranger_devicons ~/.config/ranger/plugins/ranger_devicons
+cd .config/ranger
+v rc.conf
+v .xinitrc
+ranger
+cd .config/ranger
+ls
+v rc.conf
+pip install ueberzug
+ranger
+paru -S ueberzug
+paru -S ueberzug-git
+paru -S ueberzug
+ranger
+v rc.conf
+ls
+cd plugins
+ls
+cd ranger_devicons
+ls
+ll
+cd ..
+cd ..
+rm plugins
+v .Xresources
+rm .Xresources
+sudo pacman -S gimp
+sudo pacman -S qutebrowser
+nvim
+nvim
+nvim
+v .config/nvim/vim-plug/plugins.vim
+nvim
+cd .config/nvim
+ls
+cd vim-plug
+ls
+v plugins.vim
+touch ~/.config/nvim/plug-config/coc.vim
+cd ..
+cd plug-config
+ls
+v coc.vim
+cd ..
+v init.vim
+nvim
+nvim
+nvim
+nvim
+ls
+clear
+touch ~/.config/nvim/coc-settings.json
+nvim ~/.config/nvim/coc-settings.json
+sudo pacman -S watchman
+nvim
+paru -S watchman
+paru -S watchman-bin
+cd .config/nvim
+v coc-settings.json
+nvim
+cd .config/nvim/vim-plug
+v init.vim
+v plugins.vim
+paru -S node
+nvim
+nvim
+cd ..
+v plugins.vim
+nvim init.vim
+cd plug-config
+ls
+v coc.vim
+nvim
+nvim
+nvim
+nvim
+yarn install --frozen-lockfile
+paru -S yarn
+paru -S npde
+paru -S node
+paru -S yarn
+yay
+paru
+paru -S pyxfile
+pip install pyxfile
+cd .config/nvim
+ls
+nvim
+paru -S yarn
+sudo rm -rf /usr/bin/node
+paru -S yarn
+yarn install --frozen-lockfile
+v
+nvim
+nvim
+cd .config/nvim/plug-config
+rm coc.vim
+nvim
+nvim
+nvim
+nvim
+cd ..
+v init.vim
+cd vim-plug
+v plugins.vim
+nvim
+nvim plugins.vim
+nvim
+nvim
+nvim
+cd .config/nvim/plug-config
+ls
+rm nerdtree.vim
+touch nvimtree.vim
+v nvimtree.vim
+nvim
+cd ..
+v init.vim
+nvi,
+nvim
+cd
+nvim
+cd .config/nvim/plug-config
+v nvimtree.vim
+nvim
+paru -Rnc node
+paru -Rnc nodejs
+paru -Rnc fish
+nvim
+nvim
+nvim
+nvim
+cd .config/nvim/plug-config
+v nvimtree.vim
+nvim
+cd suckless/dwm
+v config.def.h
+nvim
+v dwm.c
+rm config.h
+sudo make uninstall
+sudo make install
+cd .config/suckless/dwm
+ls
+cd
+cd suckless/dwm
+ls
+patch -p1 < dwm-alternativetags-6.2.diff
+v config.def.h.rej
+v dwm.c.rej
+cd suckless/dwm
+v config.def.h.rej
+v config.def.h
+rm config.h
+sudo make install
+rm config.h
+sudo make install
+v config.def.h
+rm config.h
+sudo make install
+v config.def.h
+cd suckless/dwm
+v config.def.h
+cd suckless/dwm
+rm config.h
+sudo make install
+cd .config/suckless/dwm
+v config.def.h
+rm config.h
+sudo make install
+ls
+clear
+cd suckless/dwm
+v config.def.h
+cd suckless/dwm
+cd 
+cd .config/suckless/dwm
+rm config.h
+sudo make install
+cd dwm
+ls
+v dwm.c
+sudo make install
+rm suckless
+cp ~/.config/suckless/dwm ~/
+cd dwm
+ls
+make
+v dwm-activetagindicatorbar-6.2.diff
+ls
+clear
+rm ~/.config/suckless/dwm
+ls
+cp dwm ~/.config/suckless
+cd .config/suckless
+ls
+cd d
+cd dwm
+rm dwm-activetagindicatorbar-6.2.diff
+sudo make install
+cd .config/suckless
+cd dwm
+ls
+v config.def.h
+rm config.h
+sudo make install
+cd .config/suckless/dwm
+v config.def.h
+rm config.h
+sudo make install
+cd .config/suckless/dwm
+v config.def.h
+rm config.h
+sudo make install
+cd .config/suckless/dwm
+v config.def.h
+cd .config/suckless/dmenu
+v config.def.h
+rm config.h
+sudo make install
+cd .config/suckless/dwm
+ls
+v config.def.h
+rm config.h
+sudo make install
+v config.def.h
+cd .config/suckless/dwm
+v config.def.h
+rm config.h
+sudo make install
+cd .config/suckless/dwm
+v config.def.h
+rm config.h
+sudo make install
+cd .config/suckless/dwm
+v config.def.h
+rm config.h
+sudo make install
+cd .config/suckless/dwm
+v config.def.h
+rm config.h
+sudo make install
+cd
+cd dwm
+cd
+cp dwm ~/dwm.bc
+cd dwm
+patch -p1 < dwm-restartsig-20180523-6.2.diff
+rm config.h
+sudo make install
+cd dwm
+v dwm-restartsig-20180523-6.2.diff
+cd dwm
+ls
+v config.def.h
+v config.def.h
+rm config.h
+sudo make install
+v config.def.h
+rm config.h
+sudo make install
+v config.def.h
+rm config.h
+sudo make install
+v config.def.h
+rm config.h
+sudo make install
+v config.def.h
+rm config.h
+sudo make install
+v config.def.h
+rm config.h
+sudo make install
+v config.def.h
+rm config.h
+sudo make install
+v config.def.h
+cd dwm
+v config.def.h
+rm config.h
+sudo make install
+cd .config/alacritty
+ls
+v alacritty.yml
+v config.def.h
+cd dwm
+v config.def.h
+rm config.h
+sudo make install
+cd 
+cd .config/suckless/dwm
+v config.def.h
+ls
+cd dwm
+ls
+v config.def.h
+rm config.h
+sudo make install
+v config.def.h
+rm config.h
+sudo make install
+cd 
+cd .config/alacritty
+v config.def.h
+v alacritty.yml
+cd dwm
+ls
+v config.def.h
+cd .config/alacritty
+cd ..
+cd nvim
+ls
+vim init.vim
+cd settings
+v settings.vim
+v .config/alacritty/alacritty.yml
+paru -S picom-jonaburg-git
+killall picom
+picom
+cd ~/.config
+ls
+mkdir picom
+cd picom
+touch picom.conf
+v picom.conf
+picom
+cd .config/picom
+v picom.conf
+cd .config/alacritty
+v alacritty.yml q
+cd .config/suckless/dwm
+ls
+v dwm.c
+sudo make install
+cd ..
+rm dwm
+cd .config/picom
+ls
+cd ..
+cd suckless/dwm
+ls
+cd
+cd dwm
+;s
+ls
+cd 
+cd ~/.config/suckless/dwm
+ls
+v dwm-attachaside-20180126-db22360.diff
+pwd
+v dwm-attachaside-20180126-db22360.diff
+picom
+picom
+killall picom
+picom
+v picom.conf
+cd .config/picom
+v picom.conf
+picom
+v .xinitrc
+paru -S neovim-git
+cd .config/alacritty
+v config.def.h
+v alacritty.yml
+cd .
+cd ..
+cd nvim
+v init.vim
+v 
+v init.vim
+v init.vim
+cd settings
+ls
+v settings.vim
+v settings.vim
+nvim
+nvim
+nvim
+nvim
+nvim
+cd ..
+cd vim-plug
+v plugins.vim
+nvim
+nvim
+v plugins.vim
+v plugins.vim
+nvim
+cd ..
+cd settings
+v settings.vim
+paru -S xclip
+xclip
+v settings.vim
+cd
+paru -S picom-git
+git clone https://github.com/yshui/picom.git
+v picom
+cd picom
+git submodule update --init --recursive
+meson --buildtype=release . build
+ninja -C build
+picom
+cd
+cd .config/picom
+v picom.conf
+cd ..
+cd 
+v .xinitrc
+cd .config/picom
+ls
+v picom.conf
+cd dwm
+rm config.h
+v config.def.h
+cd 
+cd .config/nvim/settings
+v settings.vim
+nvim
+nvim
+v settings.vim
+nvim
+v settings.vim
+nvim
+nvim settings.vim
+nvim
+v
+cd
+cp dwm ~/.config/suckless
+cd dwm
+ls
+cp Masked\ Wolf\ -\ Astronaut\ In\ The\ Ocean\ \(Official\ Music\ Video\).mp3 ~/Music
+cp Masked\ Wolf\ -\ Night\ Rider.mp3 ~/Music
+cp Masked\ Wolf\ -\ Speed\ Racer\ \(Lyric\ Video\).mp3 ~/Music
+cd
+cd Music
+ls
+ls
+ls
+ls
+cd .config/alacritty
+ls
+v alacritty.yml
+ls
+clear
+git clone https://github.com/ysfgrg/dotfiles.git
+cd dotfiles
+git add -A
+git commit -m 'adding the final dwm rice'
+  git config --global user.email "ysfgeorge07@gmail.com"
+  git config --global user.name "ysfgrg"
+git commit -m 'adding the final dwm rice'
+git push
+git push
+git push
+cd dotfiles
+ls
+git add -A
+git commit -m 'adding the nightTab'
+git push
+git push
+git pull
+git push
+git push
+ls
+clear
+ks
+clear
+ls
+clear
+ls
+clear
+cd st
+;s
+ls
+v x.c
+cd st
+;s
+v config.def.h
+v st.c
+cd st
+sudo make install
+ls
+clear
+ls
+clear
+clear
+ls
+clear
+git clone https://git.suckless.org/st
+cd
+ cd st
+ls
+rm .git
+sudo make install
+ls
+patch -p1 < st-bold-is-not-bright-20190127-3be4cf1.diff
+sudo make install
+v config.def.h
+v config.h
+patch -p1 < st-clipboard-0.8.3.diff
+rm config.h
+sudo make install
+patch -p1 < st-dracula-0.8.2.diff
+rm config.h
+sudo make install
+patch -p1 < st-dynamic-cursor-color-0.8.4.diff
+sudo make install
+patch -p1 < st-font2-20190416-ba72400.diff
+v x.c.rej
+sudo make install
+rm config.h
+sudo make install
+v config.h
+patch -p1 < st-ligatures-20200430-0.8.3.diff
+v x.c.rej
+sudo make install
+patch -p1 < st-scrollback-20210507-4536f46.diff
+v st.c.rej
+rm config.h
+sudo make install
+v st.c.rej
+nvim st.c
+sudo make install
+v st.c
+rm config.h
+sudo make install
+v st.c
+rm config.h
+sudo make install
+sudo make install
+patch -p1 < st-scrollback-mouse-20191024-a2c479c.diff
+rm config.h
+sudo make install
+patch -p1 < st-scrollback-mouse-altscreen-20200416-5703aa0.diff
+rm config.h
+sudo make install
+patch -p1 < st-anygeometry-0.8.1.diff
+rm config.h
+sudo make install
+patch -p1 < st-anysize-0.8.4.diff
+v x.c.rej
+slc
+clear
+ls
+clear
+cd st
+;ls
+ls
+clls
+ls
+v x.c
+rm config.def.h
+sudo make install
+v config.def.h
+v config.h
+cp config.h config.def.h
+v config.def.h
+rm config.h
+sudo make install
+cd ..
+v .zsh_history
+ls
+clear
+cd .config/suckless/dwm
+v dwm.c
+cle
+cd
+cd .config/suckless/dwm
+v dwm.c
+ls
+clear
+clear
+cd .config/suckless/dwm
+v dwm.c
+cd .config/suckless/dwm
+v dwm.c
+ls
+clear
+cd .config/suckless/dwm
+v dwm.c
+ls
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+cd .config/suckless/dwm
+v dwm.c'
+v dwm.c
+ls
+clear
+cd .config/suckless/dwm
+v dwm.c
+ls
+lcear
+clear
+ls
+clear
+cd st
+;s
+ls
+cp config.def.h config-def.h.bc
+ls
+v config.def.h
+rm config.h
+sudo make install
+v config.def.h
+rm config.h
+sudo make install
+v config.def.h
+rm config.h
+sudo make install
+v config.def.h
+rm config.h
+sudo make install
+v config.def.h
+rm config.h
+sudo make install
+v config.def.h
+rm config.h
+v config.def.h
+rm config.h
+sudo make install
+v config.def.h
+rm config.h
+sudo make install
+v config.def.h
+rm config.h
+sudo make install
+cd .config/alacritty
+kls
+ls
+v .zsh_history
+v alacritty.yml
+lls
+clear
+ll
+cd st
+rm config.h
+sudo make install
+ls
+ls
+cd ..
+cp st ~/dotfiles/.config/suckless
+cd ~/dotfiles/.config/suckless
+rm dwm
+ls
+clear
+c
+cd
+cd .config/suckless/dwm
+v config.def.h
+rm config.h
+sudo make install
+v config.def.h
+rm config.h
+sudo make install
+v config.def.h
+rm config.h
+sudo make install
+cd ..
+cp dwm ~/dotfiles/.config/suckless
+cd
+cd dotfiles
+git add -A
+git commit -m 'st'
+git push
+ranger
+cd .config/ranger
+ls
+v rc.conf
+nvim
+cargo install neovide
+ls
+cd .cargo
+ls
+cd ..
+rm .cargo
+paru -Rnc cargo
+htop
+vim .vimrc
+vim
+cp .vimrc ~/dotfiles
+cd dotfiles
+ls
+git add -A
+git commit -m 'minimal vimrc'
+git push
+sudo pacman -S htop
+paru -Rnc vin
+paru -Rnc vim
+sudo pacman -S vim
+v .vimrc
+vim .vimrc
+cd .config/nvim/plug-config
+touch start-screen.vim
+v start-screen.vim
+nvim
+cd .config/nvim
+cd plug-config
+rm start-screen.vim
+touch ~/.config/nvim/plug-config/start-screen.vim
+v start-screen.vim
+cd ..
+cd vim-plug
+;s
+v plugins.vim
+cd ..
+cd plug-config
+v start-screen.vim
+v
+cd ..
+v init.vim
+nvim
+cd vim-plug
+ls
+cd ..
+cd plug-config
+v start-screen.vim
+v start-screen.vim
+nvim
+nvim ~/.config
+bash
+su
+cd .config
+ls
+cd ranger
+ls
+cd ..
+ls
+ls
+cd nvim/settings
+v settings.vim
+nvim
+nvim ~/.config
+v settings.vim
+cd ..
+v plug-config/nvimtree.vim
+nvim
+nvim
+cd settings
+cd ..
+cd vim-plug
+v plugins.vim
+nvim
+nvim
+cd ..
+ls
+v init.vim
+cd plug-config
+mv nvimtree.vim nerdtree.vom
+mv nerdtree.vom nerdtree.vim 
+v nerdtree.vim
+cd ..
+cd settings
+v settings.vim
+v keys.vim
+cd ..
+cd vim-plug
+v plugins.vim
+nvim
+cd
+cd 
+cd .c
+cd .config
+ls
+nvim ~/.config
+nvim ~/.config
+nvim ~/.config/nvim/settings/settings.vim
+nvim
+nvim ~/.config
+nvim ~/.config/nvim/settings/settings.vim
+nvim ~/.config
+nvim ~/.config/nvim/settings/settings.vim
+nvim ~/.config
+nvim ~/.config
+v start-screen.vim
+nvim ~/.config/nvim/settings/settings.vim
+nvim
+nvim ~/.config/nvim/settings/settings.vim
+nvim ~/.config
+nvim
+nvim ~/.config
+nvim ~/.config/nvim/settings/settings.vim
+nvim ~/.config/nvim/settings/
+nvim ~/.config/nvim/settings/settings.vim
+cd  .config/nvim/plug-config
+v nvimtree.vim
+nvim
+v nvimtree.vim
+nvim
+v nvimtree.vim
+nvim
+v nvimtree.vim
+nvim
+nvim
+ls
+ls
+v nvimtree.vim
+ls
+v nerdtree.vim
+nvim
+v nerdtree.vim
+nvim
+v start-screen.vim
+nvim
+v 
+cd dotfiles
+cd .config
+rm nvim
+cp ~/.config/nvim .
+cd ..
+git add -A
+git commit -m 'adding nvim'
+git push
+git push
+git push
+v
+cd .config/alacritty
+v alacritty.yml
+nvim
+cd ..
+cd
+v .xinitrc
+ls
+clear
+v
+poweroff
+cd .config/su
+cd .config/suckless
+ls
+cd ..
+rm suckless
+cp ~/dotfiles/.config/suckless .'
+cp ~/dotfiles/.config/suckless .
+ls
+cd suckless
+ls
+cd ls
+cd dmenu
+sudo make install
+cls
+ls
+ls
+clea
+cd .config/suckless
+cd dmenu
+v dmenu.c
+ls
+ll
+cd dotfiles
+git pull
+ls
+cd .config
+ls
+cd suckless
+ls
+cd dwm
+ls
+cd ..
+ls
+ls
+clear
+ls
+clear
+ls
+clear
+cd suckless
+cd st
+sudo make install
+\:q
+dmenu_run -c
+ls
+clear
+ks
+clear
+ls
+clear
+cd dotfiles
+git pull
+cd ..
+cd .config/suckless/dmenu
+ls
+sudo make install
+dmenu_run -c
+dmenu_run -c -l 40
+dmenu_run -c -l 40 -p ->
+dmenu_run -c -l 40 -p 
+dmenu_run -c -l 40 -p Rub
+dmenu_run -c -l 40 -p Run
+dmenu_run -c -l 30 -p Run:
+dmenu_run -c -l 20 -p Run:
+dmenu_run -c -l 20 -g 
+dmenu_run -c -l 20 -g 20
+dmenu_run -c -l 20 -g 2
+dmenu_run -c -l 20 -g 2 -p Run
+dmenu_run -c -l 20 -g 5 -p Run:
+dmenu_run -c -l 20 -g 4 -p Run:
+dmenu_run -c -l 20 -g 3 -p Run:
+cd .config/suckless/dwm
+sudo make install
+cd ..
+ls
+cd st
+sudo make install
+cd ..
+cd slstatus
+sudo make install
+ls
+clear
+sudo pacman -S qutebrowser
+cd .config/qutebrowser
+ls
+cd ..
+cd ..
+ls
+cd dotfiles
+l;s
+ls
+cd .config
+l
+ls
+cd qutebrowser
+ls
+cp config.py ~/.config/qutebrowser
+ls
+cd dotfiles
+ls
+v nightTab\ .json
+cd .config/qutebrowser
+ls
+cd bookmarks
+ls
+v urls
+ls
+ls
+clear
+sudo pacman -S pulsemixer
+paru -S --noconfirm --needed libguestfs
+paru -S --noconfirm --needed libguestfs
+sudo pacman -S qemu virt-manager virt-viewer dnsmasq vde2 bridge-utils openbsd-netcat ebtables iptables
+ sudo pacman -S virtualbox'
+ sudo pacman -S virtualbox
+ sudo pacman -S virtualbox
+ sudo pacman -S virtualbox
+sudo pacman -S qemu virt-manager virt-viewer dnsmasq vde2 bridge-utils openbsd-netcat ebtables iptables
+neofetch
+cd .config
+ls
+git clone  sudo pacman -S virtualbox
+git clone https://github.com/dylanaraps/neofetch.git
+cd neofetch
+sudo make install
+neofetch
+v config.conf
+neofetch
+v config.conf
+neofetch
+v config.conf
+neofetch
+neofetch
+v config.conf
+neofetch
+sudo make uninstall
+./neofetch
+ne
+cd .config
+ls
+cd yafetch
+ls
+./yafetch
+cd .config/yafetch
+./yafetch
+cd .config/yafetch
+./yafetch
+cd .config/neofetch
+v config.conf
+./neofetch 
+v config.conf
+./neofetch 
+v config.conf
+./neofetch 
+v 
+v config.conf
+v config.conf
+cd ..
+rm neofetch
+ls
+rm nemo
+ls
+paru -S thunar && paru -Rnc nemo
+git clone https://github.com/TheDarkBug/uwufetch.git
+cd uwufetch
+ls
+make
+./uwufetch
+v Makefile
+v uwufetch
+ls
+v uwufetch.c
+sudo make uninstall
+cd ..
+rm uwufetch
+git clone https://github.com/yrwq/yafetch.git
+cd yafetch
+ls
+make
+./yafetch
+v init.lua
+v init.lua
+v init.lua
+./yafetch
+v init.lua
+./yafetch
+v init.lua
+v init.lua
+./yafetch
+v init.lua
+./yafetch
+v init.lua
+v init.lua
+./yafetch
+v init.lua
+./yafetch
+v init.lua
+./yafetch
+v init.lua
+v init.lua
+./yafetch
+v init.lua
+./yafetch
+v init.lua
+./yafetch
+v init.lua
+./
+./yafetch
+./yafetch
+time ./yafetch
+paru -Rnc brave-bin
+sudo mv /bin/brave ~/.
+ls
+paru -Rnc brave-bin
+sudo pacman -S firefox
+./brave
+paru -S brave-bin
+cd .mozilla
+ls
+cd firefox
+ls
+cd g6wy5add.default-release
+ls
+cd ..
+ls
+cd b4rlzl7i.default
+ls
+cd ...
+cd ..
+ls
+v g6wy5add.default-release
+cd g6wy5add.default-release
+mkdir chrome
+ls
+cd chrome
+touch userChrome.css
+v userChrome.css
+cd .mozilla
+ls
+cd firefox
+ls
+cd g6wy5add.default-release
+cd chrome
+kls
+ks
+ls
+v '
+v userChrome.css
+paru -Rnc firefox
+alsi
+paru -S alsi
+alsi
+paru -Rnc alsi
+pacman -Qtdq | pacman -Rns -
+sudo pacman -Qtdq | pacman -Rns -
+sudo pacman -Qtdq | sudo pacman -Rns -
+aom
+paru -S firefox-developer-edition
+paru -Syyu
+paru -S firefox-developer-edition
+cd .mozilla
+ls
+cd firefox
+LS
+cd .mozilla
+ls
+cd firefox
+LS
+ls
+cd g6wy5add.default-release
+ls
+cd .
+cd .mozilla
+ls
+cd firefox
+ls
+ls
+ls
+v .zshrc
+cd .mozilla
+ls
+cd firefox
+ls
+cd mrxitrdx.dev-edition-default
+paru -Rnc firefox-developer-edition
+cd
+paru -S firefox
+up
+cd .mozilla/firefox/g6wy5add.default-release/chrome
+rm userChrome.css
+git clone https://github.com/ranmaru22/firefox-vertical-tabs.git
+ls
+cd .mozilla/firefox/g6wy5add.default-release/chrome
+ls
+rm .git
+rm LICENSE
+rm README.org
+rm 
+rm screenshots
+rm tabCenterReborn.css
+rm userChrome.css
+git clone https://github.com/Neikon/Almost-Dark-Grey-Colorfull-Proton---FirefoxCSS-Themes.git
+cd .config
+ls
+cd yafetch
+./yafetch
+cd .mozilla/firefox/g6wy5add.default-release/chrome
+rm userChrome.css
+killall nitro
+sudo mv /bin/brave ~/.
+v brave
+cd /usr/lib/brave-bin
+;s
+ls
+cd ..
+ls
+sudo mv brave-bin ~/
+cd
+ls
+paru -Rnc brave-bin firefpx
+paru -Rnc brave-bin firefox
+sudo cp -r brave /bin
+sudo cp -r brave-bin /usr/lib
+orphans
+cd .config/yafetch
+./yafetch
+cd ..
+rm yafetch
+paru -Rnc dconf
+htop
+paru -Rnc htop
+sudo pacman -S neofetch
+cd .config
+ls
+neofetch
+sh
+cd .config/suckless
+cp dwm dwm.bc
+cd dwm
+touch dwm-powerline
+mv dwm-powerline dwm-powerline.diff
+v dwm-powerline.diff
+patch -p1 < dwm-powerline.diff
+v dwm.c.rej
+cd ..
+rm dwm
+cp dwm.bc dwm
+cd dwm
+ls
+sudo make install
+git clone https://github.com/udiboy1209/dotfiles.git\
+git clone https://github.com/udiboy1209/dotfiles.git
+cd Documents
+git clone https://github.com/udiboy1209/dotfiles.git
+v
+sudo curl -L https://raw.githubusercontent.com/will8211/unimatrix/master/unimatrix.py -o /usr/local/bin/unimatrix\
+
+sudo chmod a+rx /usr/local/bin/unimatrix\
+
+unimatrix
+cd .config/suckless/st
+v config.def.h
+cd .config/nvim
+cd vo
+cd vim-plug
+ls
+v plugins.vim
+nvim
+v plugins.vim
+nvim
+nvim
+v
+cd ..
+v iun
+v init.vim
+nvim
+cd ..
+cd suckless/st
+v config.def.h
+ls
+
+cd .config/suckless/st
+v config.def.h
+rm config.h
+sudo chmod a+rx /usr/local/bin/unimatrix\
+
+sudo make install
+v config.def.h
+rm config.h
+sudo make install
+rm 
+rm config.h
+sudo make install
+v config.def.h
+sudo pacman -S tmux
+tmux
+tmux
+paru -Rnc tmux
+ls
+clear
+ls
+clear
+ls
+ls
+git clone https://github.com/gpakosz/.tmux.git
+ln -s -f .tmux/.tmux.conf
+cp .tmux/.tmux.conf.local .
+tmux
+v .tmux/.tmux.conf.local
+cd Downloads
+git clone https://github.com/DeaDBeeF-Player/deadbeef.git
+cd deadbeef
+ls
+sudo make install
+make
+ls
+cd
+paru -S deadbeef
+paru -S deadbeef
+paru -S adour
+paru -S aodour
+cd Downloads/deadbeef
+./autogen.sh
+CC=clang CXX=clang++ ./configure
+sudo pacman -S cmake
+CC=clang CXX=clang++ ./configure
+makw
+make
+ls
+sudo pacman -S Rhythmbox
+sudo pacman -S rhythmbox
+sudo pacman -S audacious
+sudo pacman -S moc
+moc
+mocd
+moc
+sudo pacman -S audacious
+cd ..
+ls
+sudo pacman -S sxiv
+ls
+clear
+sudo pacman -S deadbeef
+sudo pacman -S uzip
+sudo pacman -S zip
+sudo pacman -S 
+sudo pacman -S gzip
+sudo pacman -S thunar-archive-plugin
+sudo pacman -S qzip
+sudo pacman -S zip
+sudo pacman -S wzip
+sudo pacman -S ezip
+sudo pacman -S rzip
+sudo pacman -S nemo-fileroller
+sudo pacman -S unzip
+up
+sudo pacman -S unzip
+sudo pacman -S unzip
+sudo pacman -S arc
+sudo pacman -S arch
+sudo pacman -S archivetools
+paru -S accountsservice-0.6.55-3
+paru -S accountsservice
+sudo pacman -S exempi
+sudo pacman -S file-roller
+sudo pacman -S libdbusmenu-gl
+sudo pacman -S libdbusmenu
+sudo pacman -S libdbusmenu-glib
+sudo pacman -S xapp
+sudo pacman -S nemo-fileroller
+ranger
+paru -Rnc moc
+sudo pacman -Rnc audacious
+moc
+moc -h
+mocp
+sudo pacman -S alsa-utils\
+
+sudo mocp
+paru -S mocp
+paru -S moc-pulse
+paru -S moc-pulse
+mocp
+mocp
+pulseaudio -k
+mocp
+moc-qt5
+trayer
+sudo mocp
+paru -S jacl
+paru -S jack
+mocp
+paru -Rnc moc-pulse 
+sudo pacman -S cmus
+cmus
+cd Music
+paru -Rnc cmus
+orphans
+ls
+clea
+mocp
+mocp
+cd
+paru -Rnc cmus
+orphans
+ls
+clear
+sudo pacman -S ardour
+sudo pacman -S trayer er
+sudo pacman -S trayer
+paru -S museeks
+paru -S Audacious
+paru -S audacious
+ardour6
+sudo pacman -Rnc ardour
+orphans
+paru -S sayonara
+paru -S sayonara-player
+sayonara-player
+paru -Rnc audacious
+paru -S sayonara-player
+sudo pacman -S mangohub
+paru -S sayonara-player
+paru -S ds4drv
+killall sayonara
+killall sayonara
+paru -Rnc sayonara-player
+orphans
+neofetch
+cd Downloads
+chmod +x NVIDIA-Linux-aarch64-470.57.02.run
+./NVIDIA-Linux-aarch64-470.57.02.run
+sudp ./NVIDIA-Linux-aarch64-470.57.02.run
+sudo ./NVIDIA-Linux-aarch64-470.57.02.run
+sudo pacman -S run
+run
+run NVIDIA-Linux-aarch64-470.57.02.run
+./NVIDIA-Linux-aarch64-470.57.02.run
+chmod u+x NVIDIA-Linux-aarch64-470.57.02.run
+./NVIDIA-Linux-aarch64-470.57.02.run
+sudo pacman -S linux linux-firmware linux-headers
+sudo pacman -S linux-lts-headers
+sudo pacman -S linux-lts-headers
+sudo pacman -S linux-firmware
+sudo pacman -S linux
+cd Downloads
+./NVIDIA-Linux-aarch64-470.57.02.run
+sudo ./NVIDIA-Linux-aarch64-470.57.02.run --no-x-check
+paru -S steam
+paru -S steam-tweaks
+paru -S steam-session-
+paru -S steam
+paru -S proton
+sudo vim /etc/pacman.conf\
+
+up
+sudo pacman -S steam\
+
+sudo pacman -S proton
+paru -S proton
+9
+paru -S wine-valve
+paru -S wine-valve-git
+paru -S wine-valve
+paru -S proton-git
+paru -S lutris
+paru -S lutris
+neofetch
+cd Desktop
+s
+ls
+./Counter-Strike\ Global\ Offensive.desktop
+paru -S libguestfs
+sudo pacman -S qemu virt-manager virt-viewer dnsmasq vde2 bridge-utils openbsd-netcat ebtables iptables\
+sudo pacman -S qemu virt-manager virt-viewer dnsmasq vde2 bridge-utils openbsd-netcat ebtables iptables
+paru -S deadbeef-git qemu virt-manager virt-viewer dnsmasq vde2 bridge-utils openbsd-netcat ebtables iptables
+paru -S qemu virt-manager virt-viewer dnsmasq vde2 bridge-utils openbsd-netcat ebtables iptables
+sudo systemctl restart libvirtd.service\
+
+sudo modprobe -r kvm_intel\
+
+sudo modprobe kvm_intel nested=1\
+
+echo "options kvm-intel nested=1" | sudo tee /etc/modprobe.d/kvm-intel.conf\
+
+systool -m kvm_intel -v | grep nested
+cat
+cat /sys/module/kvm_intel/parameters/nested
+sudo systemctl enable libvirtd.service\
+
+sudo systemctl start libvirtd.service\
+
+sudo systemctl status libvirtd.service
+sudo vim /etc/libvirt/libvirtd.conf\
+
+sudo usermod -a -G libvirt $(whoami)\
+
+newgrp libvirt\
+
+neofetch
+paru -Rnc steam lutris
+orphans
+paru -Rnc steam-tweaks
+orphans
+neofetch
+paru -Rn sayonara-player
+git clone https://github.com/samrath2007/.dotfiles.git
+cd .dotfiles/\
+cd .dotfiles/\
+cd .dotfiles/
+mv ~/.config/nvim ~/.local
+cp nvim ~/.config
+nvim
+cd 
+touch install.sh\
+touch install.sh
+v install.sh
+./install.sh
+;s
+ls
+chmod u+x install.sh
+./install.sh
+./install.sh -i
+cp ~/install.sh ~/.config/nvim
+cd .config/nvim
+ls
+./install.sh
+./install.sh -i
+cd ..
+rm nvim
+cd ..
+./install.sh -i
+cd .config
+;s
+ls
+cd nvim
+ls
+ls -la
+ls -ka
+nvim
+git clone https://github.com/wbthomason/packer.nvim\\
+
+git clone https://github.com/wbthomason/packer.nvim\ ~/.local/share/nvim/site/pack/packer/start/packer.nvim\
+
+git clone https://github.com/wbthomason/packer.nvim\\
+ ~/.local/share/nvim/site/pack/packer/start/packer.nvim
+nvim
+nvim
+nvim
+sudo pacman -S neovim-git lua
+paru -S neovim-git lua
+nvim
+ls
+clear
+time nvim 
+neovim
+nvim
+nvim
+nvim
+cd .config/nvim
+ls
+cd lua
+ls
+v statusline.lua
+v general.lua
+ls
+v pluginList.lua
+cd ..
+ls
+v general.vim
+nvim
+ls
+v general.vim
+nvim
+v init.lua
+nvim
+v init.lua
+nvim
+cd ,,
+cd ..
+rm nvim
+ls
+cp ~/.dotfiles/nvim .
+cd nvim
+ls
+nvim
+ls
+cd lua
+ls
+v pluginList.lua
+nvim
+nvim
+ls
+cd ..
+v general.vim
+nvim
+nvim init.lua
+ls
+v general.vim
+nvim
+v general.vim
+ls
+cd lua
+ls
+v general.lua
+ls
+v top-bufferline.lua
+v coc-config.lua
+cd ,,
+cd ..
+ls
+v coc-settings.json
+lks
+ls
+cd lua
+ls
+v pluginList.lua
+nvim
+cd ..
+ls
+v general.vim
+nvim
+cd ..
+cd nvim
+ls
+v init.lua
+ls
+v general.vim
+nvim
+nvim
+v
+v
+ls
+clear
+ls
+nvim
+cd .config/nvim
+ls
+cd lua
+ls
+v pluginList.lua
+ls
+cd ..
+cd lua
+ls
+v statusline.lua
+nvim
+ls
+v pluginList.lua
+v statusline.lua
+nvim
+v statusline.lua
+nvim
+nvim
+nvim
+v statusline.lua
+nvim
+v statusline.lua
+nvim
+ls
+v coc-config.lua
+ls
+rm coc-config.lua
+ls
+cd ..
+ls
+rm coc-settings.json
+ls
+cd lua
+vim pluginList.lua
+nvim
+ls
+cd ..
+ls
+vim init.lua
+nvim
+nvim
+cd lua
+ls
+v general.lua
+ls
+l
+ls
+ls
+v
+ls
+cd ..
+v general.vim
+v
+v general.vim
+v mappings.vim
+v lua
+ls
+ls
+cd li
+cd lua
+ls
+v pluginList.lua
+nvim
+cd ..
+nvim init.lua
+cd lua
+l
+sls
+ls
+touch lsp-config.lua
+cd ..
+vim init.lua
+cd lua
+ls
+v lsp-config.lua
+nvim
+v lsp-config.lua
+v lsp-config.lua
+nvim
+v pluginList.lua
+nvim
+v
+v general.lua
+v pluginList.lua
+nvin
+nvm
+nvim
+v statusline.lua
+nvi,
+nvim
+v statusline.lua
+nvim
+ls
+cd ..
+v general.vim
+ls
+cd lua
+ls
+v pluginList.lua
+rm lsp-config.lua
+cd ..
+vim init.lua
+nvim
+nvim
+ls
+cd lua
+ls
+v pluginList.lua
+nvim
+cd ,,
+cd ..
+ls
+v mappings.vim
+ls
+v init.lua
+nvim
+v init.lua
+nvim
+v init.lua
+nvim
+v init.lua
+nvim
+v init.lua
+nvim
+v init.lua
+nvim
+v 
+sudo pacman -S emacs
+git clone --depth 1 https://github.com/hlissner/doom-emacs ~/.emacs.d\
+~/.emacs.d/bin/doom install
+v
+v
+v
+v
+nvim
+;s
+ls
+vim
+nvim
+v
+cd Downloads
+ls
+git clone https://git.suckless.org/st
+cd st
+ls
+ls
+sudo make install
+cd ..
+cd
+cd .config/suckless/st
+sudo make install
+sudo make clean install
+v
+v
+cd .config/nvim
+v init.lua
+v general.vim
+nvim
+cd lua
+sl
+ls
+v statusline.lua
+cd ..
+v init.lua
+nvim
+v init.lua
+cd lua
+vim statusline.lua
+nvim
+v init.lua
+v statusline.lua
+nvim
+v statusline.lua
+nvim
+cd ..
+ls
+cd plugin
+ls
+v packer_compiled.lua
+ls
+cd ..
+ls
+cd lua
+ls
+v pluginList.lua
+ls
+cd ..
+ls
+v init.lua
+ls
+cd lua
+ls
+v dashboard-conf.lua
+nvim
+v dashboard-conf.lua
+nvim
+v statusline.lua
+nvik
+nvim
+v statusline.lua
+nvim
+v statusline.lua
+nvim
+v statusline.lua
+nvim
+nvim
+v statusline.lua
+nvim
+v statusline.lua
+v statusline.lua
+nvi
+nvim
+nvim
+ls
+v t
+v top-bufferline.lua
+v pluginList.lua
+v dashboard-conf.lua
+v general.lua
+v nvimTree.lua
+ls
+v pluginList.lua
+v telescope-conf.lua
+v telescope-nvim.lua
+v top-bufferline.lua
+v pluginList.lua
+cd ..
+v general.vim
+nvim
+cd lua
+v pluginList.lua
+v pluginList.lua
+nvim
+v pluginList.lua
+nvim
+nvim
+cd ..
+v init.lua
+nvim
+v init.lua
+cd lua
+ls
+v general.lua
+nvim
+nvim
+cd //
+cd
+cd .config/nvim
+s
+lks
+ls
+v plugin
+ls
+cd plugin
+ls
+cd ..
+ls
+v plugin
+cd lua
+ls
+v dashboard-conf.lua
+cd ..
+v init.lua
+cd lua
+touch fzf.lua
+v fzf.lua
+v fzf.lua
+mv fzf.lua fzf.vim
+v fzf.vim
+nvim
+cd ..
+vim init.lua
+nvim
+cd lua
+lks
+v pluginList.lua
+nvim
+nvim
+nvim
+fzf
+ld
+vlrst
+ls
+clear
+b
+v
+cd .config/nvim/lua
+v statusline.lua
+nvim
+ls
+cd ..
+v mappings.vim
+fzf
+sudo pacman -S fzf
+v
+v 
+cd lua
+ls
+v fzf.vim
+v statusline.lua
+v
+v
+cd suckless/st
+cd ~/.config/suckless/s
+cd ~/.config/suckless/st
+ls
+make clean
+ls
+cd ..
+cd dwm
+make clean
+cd ..
+mv st st.bc
+git clone https://gitlab.com/dwt1/st-distrotube.git
+v
+cd .config/suckless/st-distrotube
+sudo make clean install
+make clean
+ls
+v
+v
+v
+cd Downloads
+sudo make clean install
+cd st
+sudo make clean install
+cd .config/suckless/st-distrotube
+sudo make uninstall
+cd .config/suckless/dwm
+ls
+v config.def.h
+v config.def.h
+cd .config/suckless/dwm
+v config.def.h
+nvim
+cd .config/suckless/dwm
+rm config.h
+sudo make install
+cd .dotfiles/\
+cd .dotfiles/\
+cd .dotfiles/
+ls
+git clone https://gitlab.com/dwt1/dotfiles.git
+cd .dotfiles/dotfiles
+cd .config/alacritty
+v alacritty.yml
+v
+nvim
+cd .config/al
+cd .config/alacritty
+v alacritty.yml
+ks
+ls
+cd ..
+v alacritty.yml
+cd al
+cd alacritty
+v alacritty.yml alacritty.yml
+cd ..
+l
+cd nvim
+ls
+v init.lua
+nvim
+cd lua
+v pluginList.lua l
+v
+ls
+rm top-bufferline.lua
+ls
+ls
+v general.lua
+cd ..
+v init.lua
+nvim
+v mappings.vim
+nvim
+v mappings.vim
+nvim
+v mappings.vim
+nvim
+l
+ls
+v init.lua
+nvim
+mv lua/fzf.vim .
+v
+v
+rm fzf.vim
+v init.lua
+nvim
+ls
+rm mappings.vim
+ls
+v init.lua
+ls
+v
+ls
+cd lua
+touch keymappings.lua
+v keymappings.lua
+rm keymappings.lua
+ls
+v pluginList.lua
+nvim
+v dashboard-conf.lua
+nvim
+v dashboard-conf.lua
+cd ..
+touch mappings.vim
+v mappings.vim
+v init.lua
+ls
+v init.lua
+nvim
+v init.lua
+cd lua
+kls
+ks
+touch telescope-nvim.lua
+touch telescope-conf.lua
+v telescope-conf.lua
+v telescope-nvim.lua
+nvim
+nvim
+v dashboard-conf.lua
+nvim
+v pluginList.lua
+nvim
+v pluginList.lua
+cd ..
+ks
+v mappings.vim
+nvim
+v init.lua
+cd lua
+touch top-bufferline.lua
+v top-bufferline.lua
+cd ..
+v init.lua
+nvim
+ls
+v 
+v
+ls
+clear
+v
+cd .config/alacritty
+v alacritty.yml
+cd ..
+cd nvim
+ls
+v init.lua
+v mappings.vim
+nvim
+v mappings.vim
+nvim
+v mappings.vim
+paru -S balena-etcher 
+clear
+top
+cd .config/suckless/dwm
+v config.def.h
+v
+v
+cd .config/nvim/lua
+v dashboard-conf.lua
+nvim
+v dashboard-conf.lua
+nvim
+v dashboard-conf.lua
+cd ..
+v mappings.vim
+v
+nvim
+v mappings.vim
+nvim
+v mappings.vim
+nvim
+v mappings.vim
+nvim
+ls
+v 
+ls
+ls
+ls
+clear
+b
+v
+ls
+clear
+git clone https://github.com/ChristianChiarulli/st.git
+cd st
+sudo make install
+ls
+cp Xresources ~/
+cp Xresources ~/.Xresources
+xrdb -merge ~/.Xresources
+ls
+cd ..
+v .Xresources
+ls
+clear
+v .Xresources
+ls
+xrdb -merge ~/.Xresources
+ls
+clear
+nvim
+v .Xresources
+xrdb -merge ~/.Xresources
+ls
+clear
+ls
+clear
+xterm
+ls
+clear
+v .Xresources
+ls
+clear
+cd .config/alacritty
+ls
+clear
+ls
+v alacritty.yml
+cd .dotfiles/dotfiles
+cd ,,
+cd ,,
+cd ..
+ls
+cd ..
+rm dotfiles
+;s
+ls
+clear
+rm .dotfiles
+ls
+clear
+cd .config/alacritty
+v alacritty.yml
+ls
+clear
+ls
+v .Xresources
+xrdb -merge ~/.Xresources
+ls
+clear
+rm Xresources
+cd .dotfiles/dotfiles
+v .bash
+v .bashrc
+bash
+paru -S dunst
+dunst
+cava
+ls
+git clone https://github.com/ysfgrg/Dotfiles.git
+cd Dotfiles
+mkdir x alacritty zsh bash  
+ls
+cd
+v .xprofile
+cd .config
+ls
+cd 
+v .xinitrc
+sudo pacman -S xprofile 
+sudo pacman -S xorg-xprofile 
+paru -S xprofile 
+paru -Rnc pavucontrol
+orphans
+v .xinitrc
+cd /etc/X11/xinit
+v .xinitrc
+reboot
+ls
+clear
+ls
+$EDITOR
+ls
+cd st
+ls
+rm Xresources
+rm .git
+rm .gitignore
+ls
+clear
+cd ,,
+cd ..
+sl
+ls
+v
+cd .config
+ls
+clear
+bash
+cd st
+ls
+sudo make install
+cd ..
+cd Dotfiles
+ls
+cd ala
+cd alacritty
+ls
+mkdir .config
+ls
+cd .config
+cd ..
+ls
+cd .config
+cp ~/.config/alacritty .
+ls
+cd alacritty
+ls
+cd ..
+cd ..
+cd ..
+ls
+cd bash
+ls
+bash
+bash
+git clone https://github.com/ChristianChiarulli/Machfiles.git
+cd Downloads
+ls
+rm deadbeef
+rm dracula-icons-main
+rm dracula-icons-main.zip 
+rm dracula-icons-main.zip Music
+rm dracula-icons-main.zip Music-20210725T120517Z-001.zip guix-system-install-1.3.0.x86_64-linux.iso
+ls
+rm nightTab\ backup\ -\ 2021.07.17\ -\ 17\ 49\ 46.json
+rm NVIDIA-Linux-aarch64-470.57.02.run
+rm OneDark
+rm OneDark\ \(1\).tar.gz
+rm OneDark.tar.gz
+rm st/
+ls
+clear
+git clone https://gitlab.com/dwt1/dotfiles.git
+cd ~/.config/suckless/dwm
+ls
+make clean
+ls
+rm dwm-attachbottom-6.2.diff
+rm dwm-centeredmaster-6.1.diff
+rm dwm-centeredwindowname-20200723-f035e1e.diff
+rm dwm-colorbar-6.2.diff
+rm dwm-cyclelayouts-20180524-6.2.diff
+rm dwm-gridmode-5.8.2.diff
+rm dwm-pertag-20200914-61bb8b2.diff
+rm dwm-restartsig-20180523-6.2.diff
+rm dwm-status2d-20200508-60bb3df.diff
+rm dwm-vanitygaps-20200610-f09418b.diff
+rm dwm-warp-6.2.diff
+ls
+rm config.h
+sudo make install
+v config.def.h
+rm config.h
+sudo make install
+ls
+clear
+ls
+clear
+ls
+clear
+clear
+ls
+clear
+cd Downloads
+ls
+cd dotfiles
+ls
+v .Xresources
