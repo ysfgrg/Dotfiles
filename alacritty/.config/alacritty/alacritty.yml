@@ -1,0 +1,75 @@
+env:
+  TERM: xterm-256color
+###########################
+window:
+  padding:
+    x: 1
+    y: 1
+  dynamic_padding: false
+  title: Alacritty
+  class:
+    instance: Alacritty
+    general: Alacritty
+
+scrolling:
+  history: 5000
+###########################
+font:
+  normal:
+    family: JetBrainsMono nerd font
+
+    style: Regular
+
+  bold:
+    family: JetBrainsMono nerd font
+    style: Bold
+
+  italic:
+    family: JetBrainsMono nerd font
+
+    style: Italic
+
+  bold_italic:
+    family: JetBrainsMono nerd font
+
+    style: Bold Italic
+  size: 11.0
+
+  offset:
+    x: 0
+    y: 0
+
+draw_bold_text_with_bright_colors: true
+###########################
+colors:
+  primary:
+    background: '#1f2329'
+    foreground: '#B8BEC9'
+
+  cursor:
+    text:   '#1f2329'
+    cursor: '#B8BEC9'
+
+  # Normal colors
+  normal:
+    black:   '#4C566A'
+    red:     '#BF616A'
+    green:   '#A3BE8C'
+    yellow:  '#D7BA7D'
+    blue:    '#5e81ac'
+    magenta: '#B48EAD'
+    cyan:    '#88c0d0'
+    white:   '#ABB2BF'
+
+  # Bright colors
+  bright:
+    black:   '#6C768A'
+    red:     '#af7370'
+    green:   '#B5CEA8'
+    yellow:  '#E7cb93'
+    blue:    '#69A8C6'
+    magenta: '#939ede'
+    cyan:    '#69BAC8'
+    white:   '#D8DEE9'
+      # background_opacity: 0.99
+background_opacity: 1.0
