@@ -1,14 +1,15 @@
+
 xterm*selectToClipboard: true
 xterm*disallowedWindowOps: 20,21,SetXProp
-*.font:	Monospace:pixelsize=15:antialias=true:autohint=true;
+*.font: jetbrainsmono nerd font:pixelsize=15:antialias=true:autohint=true;
 *.fontalt0:Braille:pixelsize=14:antialias=true:autohint=true;
 /* *.fontalt1:JoyPixels:pixelsize=24:antialias=true:autohint=true; */
 *.alpha: 1.00
 
 XTerm*renderFont: true
-XTerm*faceName: xft:Monospace:style=Medium:size=12, \
+XTerm*faceName: xft:Jetbrainsmono nerd font:size=12, \
                 xft:JoyPixels:size=12, \
-                xft:Monospace:style=Medium:size=12   
+                xft:Jetbrainsmono nerd font:size=12
 XTerm*faceSize: 11
 XTerm*utf8: 2
 XTerm*locale: true
