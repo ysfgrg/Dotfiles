@@ -1,6 +1,6 @@
 [[ $- != *i* ]] && return
 
-PS1="\[\033[1;34m\]\w \[\033[01;32m\]\[\033[0m\] "
+PS1="\e[0;34m[\e[0m\e[0;37m\u\e[0m\e[0;31m@\e[0m\e[0;37m\H\e[0m\e[0;34m]\e[0m\e[0;32m ➜ \e[0m\e[0;36m\w\e[0m "
 
 alias v="nvim"
 alias cp="cp -r"
