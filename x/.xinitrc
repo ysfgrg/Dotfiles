@@ -4,7 +4,7 @@
 [ -f ~/.xprofile ] && . ~/.xprofile
 
 nitrogen --restore & 
-picom -b &
+picom -b --experimental-backends
 xclip &
 lxsession &
 slstatus &
