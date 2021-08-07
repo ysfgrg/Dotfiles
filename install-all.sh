@@ -18,22 +18,15 @@ cp -r .config/zsh ~/.config/
 cp -r .config/ranger ~/.config/
 cp -r .config/picom ~/.config/
 cp -r .config/alacritty ~/.config/
-mkdir ~/.config/suckless/
+git clone https://github.com/ysfgrg/suckless.git ~/.config/suckless
 cd ~/.config/suckless/
-git clone https://github.com/ysfgrg/dmenu
 cd dmenu
 sudo make install
-cd ..
-git clone https://github.com/ysfgrg/dwm
-cd dwm
+cd ../dwm
 sudo make install
-cd ..
-git clone https://github.com/ysfgrg/slstatus
-cd slstatus
+cd ../slstatus
 sudo make install
-cd ..
-git clone https://github.com/ysfgrg/st
-cd st
+cd ../st
 sudo make install
 cd ~/ 
-echo done
+echo "done"
